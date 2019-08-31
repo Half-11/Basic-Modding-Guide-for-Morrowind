@@ -29,7 +29,7 @@ The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to d
 1. [Download Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510)
      - *Note: Get the Standard exe version (ignore the Python version).*
 
-2. Extract the zip to your Morrowind root directory, the one with the Morrowind.exe program in it (not Data Files).
+2. Extract the zip to your ***/Morrowind*** root directory, the one with the Morrowind.exe program in it (not Data Files).
 
 3. Run the Morrowind Code Patch program as administrator.
      - *Instructions: When you get to the Morrowind Code Patch.exe executable in the root of your Morrowind folder, right-click on it to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
