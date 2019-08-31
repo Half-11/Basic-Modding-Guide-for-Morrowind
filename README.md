@@ -45,12 +45,18 @@ Creature voiceover enable
 ## Patch for Purists
 Patch for Purists (PfP) is an unofficial patch for Morrowind. It  takes a more conservative approach about what it considers a "bug" then the Morrowind Patch Project you might know from the past. PfP covers pretty much every aspect of the game within the limitations of the Construction Set (e.g broken quests, floating objects etc).
 
-1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+1. [Download Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
 2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Morrowind Optimization Patch
+Morrowind Optimization Patch (MOP) does two things: it noticeably improves performance and fixes mesh (3D models) errors. 
 
+1. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
+
+2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+     - *Note: When looking at the contents of the zip you might notice an unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). MOPs folder structure is a BAIN archive intended for mod managers. For a simple setup like ours, using a manager would be cumbersome.
+     - *Instructions: copy the content of the folders in the zip to your ***Morrowind/Data Files*** directory. Don't copy the folders themself only only their content (two Meshes folders, a Textures folder, and the Lake Fjalding Anti-Suck.esp file). When asked to overwrite the file, click *Yes*.
 
 
 
