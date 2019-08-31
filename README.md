@@ -40,19 +40,8 @@ The defealt selection is already pretty good and recommended for new players. We
 Separate axe inventory sounds
 Creature voiceover enable
 ```
-5. Apply the chosen patches (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
-    - *Important: Before you install, make sure you remove any active Blind or Fortify Health effects from your saved characters. MCP fixes some aspects of those effects, but it only works properly if they are removed first.*
+5. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
-
-There are selectable categories on the far left, and clicking a category will display a list of patches in the middle column. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name. A default selection that covers all the bug fixes and some interface upgrades is already selected, if you're not sure what to use. Press 'Apply chosen patches'.
-
-Your Morrowind.exe will be updated with the selected bugfixes. The original program is backed up to Morrowind.original.exe. The backup will always be the unpatched version.
-
-If necessary, your BSAs (game asset files) will be redated to the time of the original release so that mods can override it correctly. The Steam version supplies the assets with the incorrect creation times, so the patch fixes it.
-
-The next time you start Morrowind, at the main menu you should see MCP and the version number in the bottom left corner. Since the patch fixes bugs in Morrowind's lighting, you may need to re-adjust your brightness settings.
-
-If you want to save your current choice of installed patches, make a copy of the file mcpatch/installed.
 
 
 
