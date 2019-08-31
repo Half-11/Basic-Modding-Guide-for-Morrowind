@@ -1,4 +1,4 @@
-# Basic Modding Guide for Morrowind
+# Basic Modding Guide for The Elder Scrolls III: Morrowind Game of the Year Edition
 
 ## About this guide
 This guide aims to help (new) players to improve the game of Morrowind by giving a step-by-step explanation on how to install the most essential mods.
@@ -42,8 +42,8 @@ Creature voiceover enable
 ```
 5. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
-
-
+## Patch for Purists
+Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition. It defines a bug as: "an immersion breaking issue which was clearly not intended by the developers". This definition was the benchmark for creating this patch. Patch for Purists covers pretty much every aspect of the game. A complete overview of fixes can be found in the Patch Notes.
 
 
 
