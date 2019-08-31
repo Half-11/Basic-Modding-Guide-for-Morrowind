@@ -35,7 +35,6 @@ The Morrowind Code Patch fixes bugs and problems that aren't possible to do with
      - *Instructions: When you get to the Morrowind Code Patch.exe executable in the root of your Morrowind folder, right-click on it to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
 
 4. You will see categories and patches listed on the left. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name.
-
 You can make a selection yourself based on what you want, but the defealt selection is already pretty good. We need to add two patches however to ensure functionality for Patch for Purists. Under the "Mod specific" tab select the following:
 ```
 Separate axe inventory sounds
