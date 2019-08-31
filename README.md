@@ -23,7 +23,7 @@ Before we start installing mods we need to create an account and install some re
 - Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind / Tribunal / Bloodmoon / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (so skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
 
-## Morrowind Code Patch
+## Morrowind Code Patch (MCP)
 The Morrowind Code Patch fixes bugs and problems that aren't possible to do with scripting alone. This patch reduces crash and save corruption problems. In addition there are many more smaller optional fixes that cover all sorts of areas of the game.
 
 1. [Download Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510)
@@ -35,17 +35,13 @@ The Morrowind Code Patch fixes bugs and problems that aren't possible to do with
      - *Instructions: When you get to the Morrowind Code Patch.exe executable in the root of your Morrowind folder, right-click on it to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
 
 4. You will see categories and patches listed on the left. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name.
-You can make a selection yourself based on what you want, but the defealt selection is already pretty good. We need to add two patches however to ensure functionality for Patch for Purists. Under the "Mod specific" tab select the following:
+The defealt selection is already pretty good and recommended for new players. We need to add two patches however to ensure functionality for Patch for Purists. Under the *Mod specific* tab select the following:
 ```
 Separate axe inventory sounds
 Creature voiceover enable
 ```
-
-
-
-For some fixes to work you have to check two specific options in the Morrowind Code Patch (MCP). 
-
-Apply the chosen patches in MCP (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
+5. Apply the chosen patches (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
+    - *Important: Before you install, make sure you remove any active Blind or Fortify Health effects from your saved characters. MCP fixes some aspects of those effects, but it only works properly if they are removed first.*
 
 
 There are selectable categories on the far left, and clicking a category will display a list of patches in the middle column. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name. A default selection that covers all the bug fixes and some interface upgrades is already selected, if you're not sure what to use. Press 'Apply chosen patches'.
