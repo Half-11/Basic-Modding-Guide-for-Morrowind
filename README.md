@@ -51,7 +51,7 @@ Patch for Purists (PfP) is an unofficial patch for Morrowind. It  takes a more c
 2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Morrowind Optimization Patch
-Morrowind Optimization Patch (MOP) does two things: it noticeably improves performance and fixes mesh (3D models) errors. 
+Morrowind Optimization Patch (MOP) does two things: it noticeably improves performance and fixes mesh errors. 
 
 1. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 
