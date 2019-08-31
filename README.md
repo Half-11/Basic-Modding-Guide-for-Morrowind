@@ -43,7 +43,14 @@ Creature voiceover enable
 5. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
 ## Patch for Purists
-Patch for Purists is an unofficial patch for The Elder Scrolls III: Morrowind Game of the Year Edition. It defines a bug as: "an immersion breaking issue which was clearly not intended by the developers". This definition was the benchmark for creating this patch. Patch for Purists covers pretty much every aspect of the game. A complete overview of fixes can be found in the Patch Notes.
+Patch for Purists (PfP) is an unofficial patch for Morrowind. It  takes a more conservative approach about what it considers a "bug" then the Morrowind Patch Project that you might know from the past. PfP covers pretty much every aspect of the game within the limitations of the Construction Set. 
+
+1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
+
+2. Extract the zip to your ***Morrowind/Data Files*** directory.
+
+Install PfP by placing the files in this download into your "Morrowind\Data Files" folder and overwrite files. The default location is "C:\Program Files\Bethesda Softworks\Morrowind\Data Files". For Steam users it is "C:\Program Files\Steam\steamapps\common\Morrowind\Data Files".
+
 
 
 
