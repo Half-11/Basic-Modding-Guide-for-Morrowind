@@ -28,7 +28,7 @@ Before we start installing mods we need to create an account and install some re
 The Morrowind Code Patch fixes bugs and problems that aren't possible to do with scripting alone. This patch reduces crash and save corruption problems. In addition there are many more smaller optional fixes that cover all sorts of areas of the game.
 
 1. [Download Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510)
-     - *Note: Get the "Standard exe version".
+     - *Note: Get the Standard exe version (and ignore the Python version).
 
 2. Extract the zip to your Morrowind root directory, the one with the Morrowind.exe program in it (not Data Files).
 
