@@ -43,7 +43,7 @@ Creature voiceover enable
 5. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
 ## Patch for Purists
-Patch for Purists (PfP) is an unofficial patch for Morrowind. It  takes a more conservative approach about what it considers a "bug" then the Morrowind Patch Project that you might know from the past. PfP covers pretty much every aspect of the game within the limitations of the Construction Set. 
+Patch for Purists (PfP) is an unofficial patch for Morrowind. It  takes a more conservative approach about what it considers a "bug" then the Morrowind Patch Project you might know from the past. PfP covers pretty much every aspect of the game within the limitations of the Construction Set.
 
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
