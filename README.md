@@ -15,7 +15,7 @@ Before we start installing mods we need to create an account and install some re
 * [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=8109) - This is another requirement for third-party software later in this guide.
 
 ## 2. Propper Game Installation
-- Don't install Morrowind in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowind's design. Because of this, the default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
+- Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
      - *Steam users should follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path to a non-Program Files location.*
      - *GOG users need to remove the default Meshes, Textures, Icons and Bookart folders found in Morrowind\Data Files after a fresh install. The original Construction Set disc (this was a separate disc) came with uncompressed assets. GOG thought it was a good idea to put those in the Data Files folder, but the game can't handle these files well. This is causing the load times to slow down without any visual improvements. Don't worry about deleting these folders; all files are already present in the BSA.*
 
@@ -24,15 +24,7 @@ Before we start installing mods we need to create an account and install some re
 
 
 
-- 
 
-
-*For Steam users: follow this short tutorial to change the games installation path.
-
-
-Morrowinds installation comes with lots of unnecessary files that only get in the way. You can safely remove these unnecessary files, so you have a nice clean installation.
-
-You can now make a backup of the installation folder for later use. You don't actually need to install the game to install it again on a different computer. You can just drag and drop the folder and it will work just fine.
 
 
 MCP, MGE XE,  Enhanced textures, done
