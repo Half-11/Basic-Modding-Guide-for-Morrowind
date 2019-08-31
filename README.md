@@ -23,8 +23,8 @@ Before we start installing mods we need to create an account and install some re
 - Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind / Tribunal / Bloodmoon / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (so skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
 
-## Morrowind Code Patch (MCP)
-The Morrowind Code Patch fixes bugs and problems that aren't possible to do with scripting alone. This patch reduces crash and save corruption problems. In addition there are many more smaller optional fixes that cover all sorts of areas of the game.
+## Morrowind Code Patch
+The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to do with scripting alone. MCP reduces crash and save corruption problems. In addition there are many more smaller optional fixes that cover all sorts of areas of the game.
 
 1. [Download Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510)
      - *Note: Get the Standard exe version (and ignore the Python version).*
