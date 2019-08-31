@@ -47,11 +47,7 @@ Patch for Purists (PfP) is an unofficial patch for Morrowind. It  takes a more c
 
 1. [Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
-2. Extract the zip to your ***Morrowind/Data Files*** directory.
-
-Install PfP by placing the files in this download into your "Morrowind\Data Files" folder and overwrite files. The default location is "C:\Program Files\Bethesda Softworks\Morrowind\Data Files". For Steam users it is "C:\Program Files\Steam\steamapps\common\Morrowind\Data Files".
-
-
+2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 
 MCP, MGE XE,  Enhanced textures, done
