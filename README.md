@@ -16,11 +16,13 @@ Before we start installing mods we need to create an account and install some re
 
 ## 2. Propper Game Installation
 - Don't install Morrowind in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowind's design. Because of this, the default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
+     - *Steam users should follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path.*
+     - *GOG users should need to remove the default Meshes, Textures, Icons and Bookart folders found in Morrowind\Data Files after a fresh install. The original Construction Set disc (this was a separate disc) came with uncompressed assets. GOG thought it was a good idea to put those in the Data Files folder, but the game can't handle these files well. This is causing the load times to slow down without any visual improvements.*
 
 - Make sure you are running the latest official patch (v1.6.1820). Steam, GOG and Bethesda Launcher versions of the game are up to date. If you are running the CD version of the game, the correct installation order is: Morrowind / Tribunal / Bloodmoon / Bloodmoon Patch v1.6.1820 (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
-     - *When you are in doubt about the version of your game; this can be found at the bottom left of the main menu of the game.*
+     - *When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
 
-- Steam users whould follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path.
+
 
 - 
 
