@@ -59,6 +59,20 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours, using a manager would be too cumbersome. The only thing that matters to us is the contents of each individual folder.*
      - *Instructions: Copy the content of the folders in the zip to your ***Morrowind/Data Files*** directory. Don't copy the numbered folders themself only only their content (two Meshes folders, a Textures folder, and the Lake Fjalding Anti-Suck.esp file). When asked to overwrite the file, click *Yes*.*
 
+## Project Atlas
+Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
+
+https://www.nexusmods.com/morrowind/mods/45399
+
+
+## MGE XE
+
+
+## Graphic Herbalism - MWSE and OpenMW Edition
+
+
+the latest nightly build of MWSE 2.1.
+
 
 
 MGE XE
@@ -66,3 +80,23 @@ MGE XE
 You forgot Atlas and MOP
 
 the latest nightly build of MWSE 2.1.
+
+Better Dialogue Font
+https://www.nexusmods.com/morrowind/mods/36873
+
+WIP Detailed Correct UV Rocks
+https://www.nexusmods.com/morrowind/mods/44321?tab=files
+
+Better Waterfalls
+https://www.nexusmods.com/morrowind/mods/45424
+
+Expeditious Exit
+https://www.nexusmods.com/morrowind/mods/45634
+
+Mist Retexture
+https://www.nexusmods.com/morrowind/mods/44322
+
+RopeFenceFix
+
+Remiros' Groundcover
+https://www.nexusmods.com/morrowind/mods/46733
