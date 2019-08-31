@@ -19,7 +19,7 @@ Before we start installing mods we need to create an account and install some re
      - *Steam users should follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path to a non-Program Files location.*
      - *GOG users need to remove the default Meshes, Textures, Icons and Bookart folders found in Morrowind\Data Files after a fresh install. The original Construction Set disc (this was a separate disc) came with uncompressed assets. GOG thought it was a good idea to put those in the Data Files folder, but the game can't handle these files well. This is causing the load times to slow down without any visual improvements. Don't worry about deleting these folders; all files are already present in the BSA.*
 
-- Make sure you are running the latest official patch (v1.6.1820). Steam, GOG and Bethesda Launcher versions of the game are up to date. If you are running the CD version of the game, the correct installation order is: Morrowind / Tribunal / Bloodmoon / Bloodmoon Patch v1.6.1820 (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
+- Make sure you are running the latest official patch (v1.6.1820). Steam, GOG and Bethesda Launcher versions of the game are up to date. If you are running the CD version of the game, the correct installation order is: Morrowind / Tribunal / Bloodmoon / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
 
 
