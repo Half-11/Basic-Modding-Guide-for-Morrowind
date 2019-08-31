@@ -4,7 +4,7 @@
 This guide aims to help (new) players to improve the game of Morrowind by giving a step-by-step explanation on how to install the most essential mods.
 
 ## Before we begin
-Before we start installing mods we need to create an account and install the some required software.
+Before we start installing mods we need to create an account and install some required software.
 
 * [Register on Nexus](https://www.nexusmods.com/signup) - Most mods in this guide will be downloaded from Nexus. Nexus Mods is a site which allows users to upload and download "mods" (modifications) for computer games like Morrowind. In order to do this you have to create account. Click on the REGISTER NOW button to start your registration. The next screen will ask you to select a membership. DON'T BE FOOLED BY THIS! Just go to the bottom and select "create account" without selecting any. The rest is self-explanatory
 
