@@ -37,10 +37,9 @@ The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to d
 
 4. Start MCP by running the *Morrowind Code Patch.exe* executable. You will see categories and patches listed on the left. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name.
 The defealt selection is pretty good and recommended for new players. We need to add two patches however to ensure functionality for Patch for Purists. Under the *Mod specific* tab select the following:
-```
-Separate axe inventory sounds
-Creature voiceover enable
-```
+- `Separate axe inventory sounds`
+- `Creature voiceover enable`
+
 5. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
 ## Patch for Purists
