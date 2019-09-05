@@ -55,7 +55,7 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 1. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 
 2. Extract the *Meshes* and *Textures* folders and *Lake Fjalding Anti-Suck.esp* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-     - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours using a manager would be too cumbersome. The only thing we want here are the contents of each individual folder.*
+     - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of each individual folder.*
 
 ## Step 6: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
