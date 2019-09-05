@@ -60,6 +60,7 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 
 ## Step 6: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
+
      - *Note: This mod is not recommended if you play the game on an onboard or very old GPU because the texture atlases are quite large and might not help your performance at all.*
      
 
