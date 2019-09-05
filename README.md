@@ -54,7 +54,7 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 
 1. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 
-2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. Extract the Meshes, Textures folders and Lake Fjalding Anti-Suck.esp to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
      - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours using a manager would be too cumbersome. The only thing we want here are the contents of each individual folder.*
      - *Instructions: Copy the content of the folders in the zip to your ***Morrowind/Data Files*** directory. Don't copy the numbered folders themself only only their content (two Meshes folders, a Textures folder, and the Lake Fjalding Anti-Suck.esp file). When asked to overwrite the file, click *Yes*.*
 
