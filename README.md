@@ -63,8 +63,8 @@ Project Atlas improves performance even further by using different techniques th
      - *Note: This mod is not recommended if you play the game on an onboard or very old GPU because the texture atlases are quite large and might not help your performance at all.*
      - *test*
 
+1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
 
-https://www.nexusmods.com/morrowind/mods/45399
 
 
 ## MGE XE
@@ -77,7 +77,7 @@ the latest nightly build of MWSE 2.1.
 
 
 
-MGE XE
+
 
 You forgot Atlas and MOP
 
