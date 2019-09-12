@@ -102,3 +102,9 @@ https://www.nexusmods.com/morrowind/mods/46733
 
 Glow in the Dahrk
 https://www.nexusmods.com/morrowind/mods/45886
+
+
+Morrowind Essentials is a project aimed at the distribution of a single updated package for mods that are considered essential.
+
+As fun as it can be to browse trough modding guides, forums and pages, it can also be can be a headache; especially to people new to the game.
+
