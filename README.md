@@ -15,7 +15,7 @@ Before we start installing mods we need to create an account and install some re
 
      - *Instructions: When you run the downloaded file, it will ask you what folder to extract the files to. Hit ***Browse...*** and ***OK*** and ***OK*** again. The files are now stored in Temp folder.*
     - *We now have to navigate to the Temp folder. To open the Temp folder, click Start or go to the Windows Search charm, type ***%USERPROFILE%\AppData\Local***, and select the Local folder that appears. Inside this folder scroll down until you see the Temp folder.*
-    - *Run the ***DXSETUP.exe*** file to start the installation for DirectX 9.0c.*
+    - *Run the ***DXSETUP.exe*** file found inside this folder to start the installation for DirectX 9.0c.*
 
 * [Microsoft Visual C++ 2010 Redistributable Package (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=8109) - This is another requirement for third-party software later in this guide.
 
