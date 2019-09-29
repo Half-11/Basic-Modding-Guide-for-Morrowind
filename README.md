@@ -92,8 +92,7 @@ When looking at the contents of the zip you might notice unfamiliar folder names
      - ****Distant Land***: ...*-
      - ****In-Game***: ...*-
 
-```
-Display
+>Display
 ~~~~~~~~
 Resolution: your monitor resolution
 Windowed more: checked
@@ -101,7 +100,7 @@ Borderless window: checked
 Antialiasing: 8x (or 4x if you are worried about performance)
 Anisotropic filtering: 8x
 VSync: On
-```
+
 
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
