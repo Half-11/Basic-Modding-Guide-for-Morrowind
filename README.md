@@ -71,7 +71,7 @@ Project Atlas improves performance even further by using different techniques th
 
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
      - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
-     - *The [Glow in the Dahrk (GitD)](https://www.nexusmods.com/morrowind/mods/45886) and [Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321) folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them before installing Project Atlas.
+     - *The [Glow in the Dahrk (GitD)](https://www.nexusmods.com/morrowind/mods/45886) and [Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321) folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them before installing Project Atlas.*
 
 When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
 
