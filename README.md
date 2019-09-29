@@ -87,7 +87,7 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 3. Before we are going setting up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
      - *Note: Doing this will ensure we are running the  latest nightly build of MWSE 2.1 (Morrowind Script Extender) which we need for some of the mods later on in this guide.*
 
-4. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will start setting up the first tab from the left:
+4. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
 
 >**Display**
 >
@@ -128,6 +128,31 @@ Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 Eye Adaption (HDR)
 deband_fogaware
 ```
+7. Now we are going to the second tab from the left. Make sure to use the following settings:
+
+>**Distant Land**
+>
+>Use Distant Land: checked
+>
+>Draw Distance: 4,0 cells
+>
+>Auto set other distances: By Draw Distance
+>
+>Water Reflections: check all (skip Nearby Statics when worried about performance)
+>
+>Use Distant Statics: checked (Near: 50, Far: 600, Very Far: 800)
+>
+>Dynamic ripples: checked (30 Geight of waves)
+>
+>Caustic: 40% brightness
+>
+>Use high quality (exponential) fog: checked
+>
+>High quality atmosphere & distance colouring: checked
+>
+>Dynamic solar shadows: checked
+>
+>Per-pixel lightning shader: UNCHECKED (It's extremely heavy on performance especially on a weak CPU)
 
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
