@@ -101,8 +101,6 @@ Antialiasing: 8x (or 4x if you are worried about performance)
 Anisotropic filtering: 8x
 VSync: On
 
-
-
 ## Graphic Herbalism - MWSE and OpenMW Edition
 
 
