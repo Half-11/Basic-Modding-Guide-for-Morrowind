@@ -138,7 +138,7 @@ deband_fogaware
 >
 >Auto set other distances: checked (By Draw Distance)
 >
->Water Reflections: check all (skip Nearby Statics when worried about performance)
+>Water Reflections: check all (Nearby Statics can be skipped in favour of performance)
 >
 >Use Distant Statics: checked (Near: 50, Far: 600, Very Far: 800)
 >
