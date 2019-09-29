@@ -154,6 +154,8 @@ deband_fogaware
 >
 >Per-pixel lightning shader: UNCHECKED (It's extremely heavy on performance especially on a weak CPU)
 
+8. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
+
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
 
