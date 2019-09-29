@@ -82,11 +82,25 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 1. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
      - *Note: Download the ***MGE XE Manual Install*** (skip on the MGE XE Installer).*
 
-2. Extract the zip to your ***Morrowind*** root folder (NOT your Morrowind/Data Files folder). When asked to overwrite the file, click *Yes*.
+2. Extract the zip to your ***Morrowind*** root folder (the folder with Morrowind.exe in it). When asked to overwrite the file, click *Yes*.
 
 3. Before we are going setting up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
-     - *Doing this will ensure we are running the  latest nightly build of MWSE 2.1 (Morrowind Script Extender) which we need for some of the mods later on in this guide.*
+     - *Note: Doing this will ensure we are running the  latest nightly build of MWSE 2.1 (Morrowind Script Extender) which we need for some of the mods later on in this guide.*
 
+4. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will set these up from left to right.
+     - ****Graphics***: Click on the ***Select screen reolution*** and select your monitor resolution. *-
+     - ****Distant Land***: ...*-
+     - ****In-Game***: ...*-
+
+```
+*Display*
+Resolution: your monitor resolution
+Windowed more: checked
+Borderless window: checked
+Antialiasing: 8x (or 4x if you are worried about performance)
+Anisotropic filtering: 8x
+VSync: On
+```
 
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
