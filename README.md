@@ -65,9 +65,15 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 ## Step 6: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
 
-     - *Warning: This mod is not recommended if you play the game on an onboard or very old GPU because the so-called texture atlases are quite large and might actually hurt your performance in this case.*
-
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
+     - *Warning: This mod is not recommended if you play the game on an onboard or very old GPU because the so-called texture atlases are quite large and might actually hurt your performance in this case.*
+     - *Note: Project Atlas is still a work in progress. For this reason each module has to be downloaded separately (they will be bundled in one download when the project is finished).*
+
+2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
+     - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
+     - *The [Glow in the Dahrk (GitD)](https://www.nexusmods.com/morrowind/mods/45886) and [Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321) folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them before installing Project Atlas.
+
+When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
 
 
 
