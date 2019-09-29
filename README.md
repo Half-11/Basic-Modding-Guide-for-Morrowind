@@ -136,7 +136,7 @@ deband_fogaware
 >
 >Draw Distance: 4,0 cells
 >
->Auto set other distances: By Draw Distance
+>Auto set other distances: checked (By Draw Distance)
 >
 >Water Reflections: check all (skip Nearby Statics when worried about performance)
 >
