@@ -121,7 +121,7 @@ Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 Eye Adaption (HDR)
 ```
-
+     - *Note: ***deband_fogaware*** is a shader it blurs the fog in addition to fixing banding. This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the ***deband_fogaware.fx*** file inside your ```Morrowind\Data Files\shaders``` folder.*
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
 
