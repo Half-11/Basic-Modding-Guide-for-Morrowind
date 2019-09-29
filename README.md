@@ -105,6 +105,22 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 >Anisotropic filtering: 8x
 >
 >VSync: On
+>
+>Enable shaders: checked
+>
+>Auto FOV: checked
+>
+>FPS limiter: 60
+
+5. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
+```
+SSAO
+Underwater Effects
+Underwater Interior Effects
+Sunshafts
+Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
+Eye Adaption (HDR)
+```
 
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
