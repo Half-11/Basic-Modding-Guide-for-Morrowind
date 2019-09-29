@@ -101,7 +101,6 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 >VSync: On
 
 
-
 ## Graphic Herbalism - MWSE and OpenMW Edition
 
 
