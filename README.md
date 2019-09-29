@@ -93,7 +93,8 @@ When looking at the contents of the zip you might notice unfamiliar folder names
      - ****In-Game***: ...*-
 
 ```
-*Display*
+Display
+~~~~~~~~
 Resolution: your monitor resolution
 Windowed more: checked
 Borderless window: checked
