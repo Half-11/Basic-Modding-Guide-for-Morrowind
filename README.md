@@ -87,10 +87,7 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 3. Before we are going setting up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
      - *Note: Doing this will ensure we are running the  latest nightly build of MWSE 2.1 (Morrowind Script Extender) which we need for some of the mods later on in this guide.*
 
-4. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will set these up from left to right.
-     - ****Graphics***: Click on the ***Select screen reolution*** and select your monitor resolution. *-
-     - ****Distant Land***: ...*-
-     - ****In-Game***: ...*-
+4. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will start setting up the first tab from the left:
 
 >**Display**
 >
