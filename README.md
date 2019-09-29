@@ -79,6 +79,15 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 
 ## MGE XE
 
+1. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
+     - *Note: Download the ***MGE XE Manual Install*** (skip on the MGE XE Installer).*
+
+2. Extract the zip to your ***Morrowind*** root folder (NOT your Morrowind/Data Files folder). When asked to overwrite the file, click *Yes*.
+
+3. Before we are going setting up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
+     - *Doing this will ensure we are running the  latest nightly build of MWSE 2.1 (Morrowind Script Extender) which we need for some of the mods later on in this guide.*
+
+
 
 ## Graphic Herbalism - MWSE and OpenMW Edition
 
