@@ -1,5 +1,5 @@
 # Basic Modding Guide for The Elder Scrolls III: Morrowind Game of the Year Edition
-# Morrowind Basic Setup Guide
+# Morrowind 2020 Basic Setup Guide
 
 ## About this guide
 This guide aims to help (new) players to improve the game of Morrowind by giving a step-by-step explanation on how to install the most essential mods.
