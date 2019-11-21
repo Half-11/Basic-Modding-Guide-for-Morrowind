@@ -64,14 +64,16 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
 
 ## Step 6: Properly Smoothed Meshes (optional)
+Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
-2. We want to copy just one folder from the mod we just downloaed. Extract the *Meshes* found in the *00 Core* folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. We want to copy just one folder from the zip we just downloaed. Extract the *Meshes* folder found inside *00 Core* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 7: Glow in the Dahrk (optional)
+Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
-1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45096)
+1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
 
 ## Step 8: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
