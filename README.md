@@ -63,12 +63,21 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
      - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
 
-## Step 6: Project Atlas
+## Step 6: Properly Smoothed Meshes (optional)
+
+1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
+
+2. We want to copy just one folder from the mod we just downloaed. Extract the *Meshes* found in the *00 Core* folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
+## Step 7: Glow in the Dahrk (optional)
+
+1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45096)
+
+## Step 8: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
 
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
      - *Warning: This mod is not recommended if you play the game on an onboard or very old GPU because the so-called texture atlases are quite large and might actually hurt your performance in this case.*
-     - *Note: Project Atlas is still a work in progress. For this reason each module has to be downloaded separately (they will be bundled in one download when the project is finished).*
 
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
      - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
