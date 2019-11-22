@@ -2,7 +2,7 @@
 # Morrowind 2020 Basic Setup Guide
 
 ## About this guide
-This guide aims to help (new) players to improve the game of Morrowind by giving a step-by-step explanation on how to install the most essential mods.
+This guide aims to help (new) players to improve the game of Morrowind by giving a step-by-step instructions on how to install the most essential mods.
 
 ## Step 1: Before we begin
 Before we start installing mods we need to create an account and install some required software.
