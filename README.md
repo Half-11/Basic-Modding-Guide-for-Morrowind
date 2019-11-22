@@ -202,8 +202,6 @@ RopeFenceFix
 Remiros' Groundcover
 https://www.nexusmods.com/morrowind/mods/46733
 
-Glow in the Dahrk
-https://www.nexusmods.com/morrowind/mods/45886
 
 
 Morrowind Essentials is a project aimed at the distribution of a single updated package for mods that are considered essential.
