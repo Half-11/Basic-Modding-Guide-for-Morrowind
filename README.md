@@ -132,7 +132,7 @@ Eye Adaption (HDR)
 ```
 6. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to fixing banding. This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
 ```
-SSAO
+SSAO HQ
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
@@ -146,7 +146,7 @@ deband_fogaware
 >
 >Use Distant Land: checked
 >
->Draw Distance: 4,0 cells
+>Draw Distance: 3,7 cells (4.0 and 5.0 also work but are heavier on performance)
 >
 >Auto set other distances: checked (By Draw Distance)
 >
@@ -154,9 +154,9 @@ deband_fogaware
 >
 >Use Distant Statics: checked (Near: 130, Far: 600, Very Far: 780)
 >
->Dynamic ripples: checked (30 Geight of waves)
+>Dynamic ripples: checked (30 Height of waves)
 >
->Caustic: 40% brightness
+>Caustic: 35% brightness
 >
 >Use high quality (exponential) fog: checked
 >
@@ -164,7 +164,13 @@ deband_fogaware
 >
 >Dynamic solar shadows: checked
 >
->Per-pixel lightning shader: UNCHECKED (It's extremely heavy on performance especially on a weak CPU)
+>Per-pixel lightning shader: uncheck (it's extremely heavy on performance especially on a weak CPU)
+>
+>Exponential distance multiplier 4.4
+>
+>Use high quality (exponential) fog: checked (can be unchecked in favour of performance)
+>
+>High quality atmosphere & distance colouring: checked
 
 8. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
 
