@@ -64,7 +64,7 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
 
 ## Step 6: Properly Smoothed Meshes (optional)
-Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
+Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
@@ -152,7 +152,7 @@ deband_fogaware
 >
 >Water Reflections: check all (Nearby Statics can be skipped in favour of performance)
 >
->Use Distant Statics: checked (Near: 50, Far: 600, Very Far: 800)
+>Use Distant Statics: checked (Near: 130, Far: 600, Very Far: 780)
 >
 >Dynamic ripples: checked (30 Geight of waves)
 >
