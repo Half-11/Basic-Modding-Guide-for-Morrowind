@@ -88,6 +88,16 @@ Project Atlas improves performance even further by using different techniques th
 When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
 
 
+## Step 9: Graphic Herbalism - MWSE and OpenMW Edition (optional)
+This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting part of the plant you pick disappears.
+
+1. [Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
+     - *Note: We will only need the Main File.*
+
+2. In the zip we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
+3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. If you care about smoother models for the flora, you can repeat the process from the previous step for this folder. If you don't care about this, you can just ignore this folder.
+
 
 ## MGE XE
 MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more.
@@ -147,7 +157,7 @@ deband_fogaware
 >
 >Use Distant Land: checked
 >
->Draw Distance: 3,7 cells (4.0 and 5.0 also work but are heavier on performance)
+>Draw Distance: 3,7 cells (this is what I personaly use but anything beteen 3.0 and 5.0 seems reasonable to aim for)
 >
 >Auto set other distances: checked (By Draw Distance)
 >
@@ -176,10 +186,6 @@ deband_fogaware
 8. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
 
 
-## Graphic Herbalism - MWSE and OpenMW Edition
-
-
-the latest nightly build of MWSE 2.1.
 
 
 
