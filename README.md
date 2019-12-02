@@ -90,6 +90,7 @@ When looking at the contents of the zip you might notice unfamiliar folder names
 
 
 ## MGE XE
+MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more.
 
 1. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
      - *Note: Download the MGE XE Manual Install (skip on the MGE XE Installer).*
