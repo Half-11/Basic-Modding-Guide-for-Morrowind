@@ -221,3 +221,7 @@ Morrowind Essentials is a project aimed at the distribution of a single updated 
 
 As fun as it can be to browse trough modding guides, forums and pages, it can also be can be a headache; especially to people new to the game.
 
+tes3cmd
+https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z
+
+resetdates.bat
