@@ -79,7 +79,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
 
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
-     - *Warning: This mod is not recommended if you play the game on a very, very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay.*
+     - *Warning: This mod is not recommended if you play the game on a very, very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay though.*
 
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
      - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
