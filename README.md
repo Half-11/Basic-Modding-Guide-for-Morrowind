@@ -75,9 +75,6 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
 1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
 
-## Step 8: Project Atlas
-Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
-
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the content of the following folders to your ***Morrowind/Data Files*** directory:
 - `00 Core`
 - `01 Hi Res Window Texture Replacer`
@@ -86,6 +83,9 @@ Project Atlas improves performance even further by using different techniques th
 - `03 Nord Glass Windows Interior Sunrays`
 - `05 Raven Rock Glass Windows`
 - `05 Raven Rock Glass Windows Interior Sunrays`
+
+## Step 8: Project Atlas
+Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
 
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
      - *Warning: This mod is not recommended if you play the game on a very, very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay though.*
