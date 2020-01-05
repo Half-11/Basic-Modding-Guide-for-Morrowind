@@ -77,7 +77,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the content of the following folders to your ***Morrowind/Data Files*** directory:
 - `00 Core`
-- `01 Hi Res Window Texture Replacer (only use this if you decided to use Intelligent Textures above)`
+- `01 Hi Res Window Texture Replacer (skip if you decided not to use Intelligent Textures above)`
 - `02 Interior Sunrays`
 - `03 Nord Glass Windows`
 - `03 Nord Glass Windows Interior Sunrays`
