@@ -13,10 +13,7 @@ Before we start installing mods we need to create an account and install some re
      - *Note: If you have never used 7-Zip before I recommend to watch [this short tutorial](https://www.youtube.com/watch?v=WCxbEQo3Zhg) on how to extract files with it.*
 
 * [DirectX 9.0c June 2010](http://www.microsoft.com/download/en/details.aspx?id=35) - This is a required update for third-party software we are going to use. This won't conflict with exisiting installations of DirectX (10+).
-
-     - *Instructions: When you run the downloaded file, it will ask you what folder to extract the files to. Hit ***Browse...*** and ***OK*** and ***OK*** again. The files will now be stored in the Temp folder.*
-    - *We now have to navigate to the Temp folder. To open the Temp folder, click Start or go to the Windows Search charm, type ***%USERPROFILE%\AppData\Local***, and select the Local folder that appears. Inside this folder scroll down until you see the Temp folder.*
-    - *Run the ***DXSETUP.exe*** file found inside this folder to start the installation for DirectX 9.0c.*
+     - *Note: Uncheck the **Install Bing Bar** thingy during installation. It's just bloatware.*
 
 * [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=48145) - This is another requirement for third-party software later in this guide. For Morrowind you'll need the ***vc_redist.x86.exe*** file (regardless of your computer's architecture)([direct link](https://aka.ms/vs/16/release/vc_redist.x86.exe)).
 
