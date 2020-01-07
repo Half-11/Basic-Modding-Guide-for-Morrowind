@@ -111,15 +111,17 @@ This mod makes it so that you pick plants just by activating them instead of ope
 ## MGE XE
 MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more.
 
-1. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
+1. Run the game at least once before you installing.
+
+2. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
      - *Note: Download the MGE XE Manual Install (skip on the MGE XE Installer).*
 
-2. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it). When asked to overwrite the file, click *Yes*.
+3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it). When asked to overwrite the file, click *Yes*.
 
-3. Before we are going setting up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
+4. Before we are going setting up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
      - *Note: Doing this will ensure we are running the  latest nightly build of MWSE 2.1 (Morrowind Script Extender) which we need for some of the mods later on in this guide.*
 
-4. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
+5. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
 
 >**Display**
 >
@@ -141,7 +143,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 >
 >FPS limiter: 60
 
-5. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
+6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
 SSAO
 Underwater Effects
@@ -150,7 +152,7 @@ Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 Eye Adaption (HDR)
 ```
-6. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to fixing banding. This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
+7. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to fixing banding. This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
 ```
 SSAO HQ
 Underwater Effects
@@ -160,7 +162,7 @@ Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 Eye Adaption (HDR)
 deband_fogaware
 ```
-7. Now we are going to the second tab from the left. Make sure to use the following settings:
+8. Now we are going to the second tab from the left. Make sure to use the following settings:
 
 >**Distant Land**
 >
@@ -192,7 +194,7 @@ deband_fogaware
 >
 >High quality atmosphere & distance colouring: checked
 
-8. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
+9. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
 
 
 
