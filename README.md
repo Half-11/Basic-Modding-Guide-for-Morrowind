@@ -18,7 +18,7 @@ Before we start installing mods we need to create an account and install some re
     - *We now have to navigate to the Temp folder. To open the Temp folder, click Start or go to the Windows Search charm, type ***%USERPROFILE%\AppData\Local***, and select the Local folder that appears. Inside this folder scroll down until you see the Temp folder.*
     - *Run the ***DXSETUP.exe*** file found inside this folder to start the installation for DirectX 9.0c.*
 
-* [Microsoft Visual C++ 2015 Redistributable (x86)](https://aka.ms/vs/16/release/vc_redist.x86.exe) - This is another requirement for third-party software later in this guide.
+* [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=48145) - This is another requirement for third-party software later in this guide. For Morrowind you'll need the vc_redist.x86.exe file ([direct link](https://aka.ms/vs/16/release/vc_redist.x86.exe).
 
 ## Step 2: Propper Game Installation
 - Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
