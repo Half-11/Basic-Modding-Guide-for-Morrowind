@@ -1,8 +1,9 @@
 # Basic Modding Guide for The Elder Scrolls III: Morrowind Game of the Year Edition
-# Morrowind 2020 Basic Setup Guide
 
 ## About this guide
 This guide aims to help (new) players to improve the game of Morrowind by giving a step-by-step instructions on how to install the most essential mods.
+
+# §1 Essential Mods 
 
 ## Step 1.1: Before we begin
 Before we start installing mods we need to create an account and install some required software.
@@ -171,19 +172,22 @@ deband_fogaware
 3. [Better Expansion Implementations](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 
 
-
+# §2 Optional mods for a Vanilla+ installation
+The following mods are all optional and can be skipped if all you wanted were bug fixes and improvements in performance. However, if you want to enhance the games aesthetics with a few more mods in a vanilla friendly way; read on.
 
 ## Step 2.1: Intelligent Textures
-Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales. 
+Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
+1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
 
+2. We want to copy just one folder from the zip we just downloaed. Extract the *Meshes* folder found inside *00 Core* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.1: Properly Smoothed Meshes
 Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
-2. We want to copy just one folder from the zip we just downloaed. Extract the *Meshes* folder found inside *00 Core* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find two folders ***00 Core + 01 Atlas Textures***. Extract the content of both folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.2: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting part of the plant you pick disappears.
@@ -191,7 +195,7 @@ This mod makes it so that you pick plants just by activating them instead of ope
 1. [Download Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
      - *Note: We will only need the Main File.*
 
-2. In the zip we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. If you care about smoother models for the flora, you can repeat the process from the previous step for this folder. If you don't care about this, you can just ignore this folder.
 
