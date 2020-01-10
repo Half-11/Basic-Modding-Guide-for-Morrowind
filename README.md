@@ -141,7 +141,6 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
 
 
-Weapon Sheathing
 
 
 # §3 Setting up MGE XE
@@ -224,30 +223,23 @@ deband_fogaware
 
 
 
+Weapon Sheathing
 
-
-
-the latest nightly build of MWSE 2.1.
-
-Better Dialogue Font
-https://www.nexusmods.com/morrowind/mods/36873
+Remiros' Groundcover
+https://www.nexusmods.com/morrowind/mods/46733
 
 WIP Detailed Correct UV Rocks
 https://www.nexusmods.com/morrowind/mods/44321?tab=files
 
+
 Better Waterfalls
 https://www.nexusmods.com/morrowind/mods/45424
-
-Expeditious Exit
-https://www.nexusmods.com/morrowind/mods/45634
 
 Mist Retexture
 https://www.nexusmods.com/morrowind/mods/44322
 
 RopeFenceFix
 
-Remiros' Groundcover
-https://www.nexusmods.com/morrowind/mods/46733
 
 
 
