@@ -88,6 +88,14 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 4. Before we are going to set up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
      - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE 2.1 is still actively maintained so it is recommended to do this now and then.*
 
+## Step 1.7 Some minor essential mods
+
+1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
+
+2. [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
+
+3. [Better Expansion Implementations](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
+
 
 # §2 Optional mods for a Vanilla+ installation
 The following mods are all optional and can be skipped if all you wanted were bug fixes and improvements in performance you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics with a few more mods in a vanilla friendly way; read on.
@@ -213,13 +221,7 @@ deband_fogaware
 
 9. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
 
-## Step 1.7 Some minor essential mods
 
-1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
-
-2. [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
-
-3. [Better Expansion Implementations](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
 
 
 
