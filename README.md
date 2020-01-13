@@ -21,7 +21,7 @@ Before we start installing mods we need to create an account and install some re
      - *Note: Uncheck the **Install Bing Bar** thingy during installation. It's just bloatware.*
 
 * [Microsoft Visual C++ 2015 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=48145) - This is another requirement for third-party software later in this guide.
-- *Instructions: Select your language. Click the **Download** button. Check the box before **vc_redist.x86.exe**. Click the **Next** button.
+     - *Instructions: Select your language. Click the **Download** button. Check the box before **vc_redist.x86.exe**. Click the **Next** button.
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture ([direct link](https://aka.ms/vs/16/release/vc_redist.x86.exe)).
 
 ## Step 1.2: Propper Game Installation
