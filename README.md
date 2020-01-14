@@ -247,6 +247,9 @@ https://www.nexusmods.com/morrowind/mods/44322
 RopeFenceFix
 
 
+Krokantor's Enhanced Water Shader for MGE XE updated to work with latest MGE XE version.
+https://cdn.discordapp.com/attachments/381217735306248192/579434115720413184/Enhanced_Water_Shader_for_MGE_XE_2.1_wip.7z
+
 
 
 Morrowind Essentials is a project aimed at the distribution of a single updated package for mods that are considered essential.
