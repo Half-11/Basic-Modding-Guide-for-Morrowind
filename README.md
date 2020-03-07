@@ -101,7 +101,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 
 2. [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
 
-3. [Better Expansion Implementations](https://www.nexusmods.com/morrowind/mods/47068?tab=files)
+3. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
 
 # §2 Optional mods for a Vanilla+ installation
