@@ -189,7 +189,6 @@ Underwater Effects
 Underwater Interior Effects
 Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
-Eye Adaption (HDR)
 deband_fogaware
 ```
 8. Now we are going to the second tab from the left. Make sure to use the following settings:
