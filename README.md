@@ -160,7 +160,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 >
 >Resolution: your monitor resolution
 >
->Windowed more: checked
+>Windowed mode: checked
 >
 >Borderless window: checked
 >
