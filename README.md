@@ -103,6 +103,8 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 
 3. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
 
+4. [Fix Those Bastard Rope Fences](https://www.nexusmods.com/morrowind/mods/45741)
+
 
 # §2 Optional mods for a Vanilla+ installation
 The following mods are all optional and can be skipped if all you wanted were bug fixes and improvements in performance you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics with a few more mods in a vanilla friendly way; read on.
