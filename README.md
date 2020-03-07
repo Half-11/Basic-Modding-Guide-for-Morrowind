@@ -174,7 +174,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 >
 >Auto FOV: checked
 >
->FPS limiter: 60
+>FPS limiter: 60 (more frames will cause issues with animations)
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
