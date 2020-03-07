@@ -93,7 +93,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it). When asked to overwrite the file, click *Yes*.
 
 4. Before we are going to set up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
-     - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE 2.1 is still actively maintained so it is recommended to do this now and then.*
+     - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE 2.1 is actively maintained so it is recommended to do this now and then.*
 
 ## Step 1.7 Some minor essential mods
 
