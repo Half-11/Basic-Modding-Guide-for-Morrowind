@@ -115,7 +115,7 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 
 1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
 
-2. Extract the contents of both the *00 Core* and *01 Atlas Textures* folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.1: Properly Smoothed Meshes
 Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
