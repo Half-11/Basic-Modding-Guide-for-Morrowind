@@ -148,8 +148,6 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 - `02 Interior Sunrays`
 - `03 Nord Glass Windows`
 - `03 Nord Glass Windows Interior Sunrays`
-- `05 Raven Rock Glass Windows`
-- `05 Raven Rock Glass Windows Interior Sunrays`
 
 ## Step 2.4: Weapon Sheathing
 Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
