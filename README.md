@@ -157,6 +157,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
 
 ## Step 2.5 Some minor mods
+Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
 1. [WIP Detailed Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/44321?tab=files)
 
