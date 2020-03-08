@@ -149,12 +149,22 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 - `05 Raven Rock Glass Windows Interior Sunrays`
 
 ## Step 2.4: Weapon Sheathing
+Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
 
-1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+1. [Download Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+     - *Note: We want the ***WeaponSheathing1.6-MWSE*** file (not ***WeaponSheathing1.6-OpenMW***).*
+
+2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.5: Remiros' Groundcover
+Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
 
-1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+     - *Note: We want the non-OpenMW file on top of the download page (not ***Remiros' Groundcover - OpenMW
+***).*
+
+2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+     - *Note: If you for some reason don't like the small mushrooms this mod adds, you can install the ***04a No Mushrooms***) in the same way.
 
 ## Step 2.5 Some minor mods
 Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
