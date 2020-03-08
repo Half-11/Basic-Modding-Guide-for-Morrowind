@@ -162,7 +162,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
 2. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
 
-3. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322)
+3. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322?tab=files)
 
 
 # §3 Setting up MGE XE
