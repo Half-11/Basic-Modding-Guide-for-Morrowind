@@ -200,15 +200,19 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 >Auto FOV: checked
 >
 >FPS limiter: 60 (more frames can cause issues with animations)
+>
+>Fog mode: Range vertex (Best)
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
-SSAO
+SSAO HQ
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 ```
+Hit *Save*.
+
 7. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to [fixing banding](https://i.ytimg.com/vi/eJXfahupTi8/maxresdefault.jpg). This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders\XEshaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
 
 >>>>Krokantor's Enhanced Water Shader for MGE XE updated to work with latest MGE XE version.
