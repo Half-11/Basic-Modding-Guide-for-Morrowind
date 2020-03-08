@@ -108,7 +108,7 @@ Finally, there are a few minor mods that I consider essential. Again, extract th
 
 
 # §2 Optional mods for a Vanilla+ installation
-The following mods are all optional and can be skipped. If all you wanted were bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics with a few more mods in a vanilla friendly way; read on.
+The following mods are all optional. If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods in a vanilla friendly way; read on.
 
 ## Step 2.1: Intelligent Textures
 Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
