@@ -155,7 +155,7 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
 # §3 Setting up MGE XE
 
-5. Now open ***MGEXEgui.exe***. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
+5. Now open ***MGEXEgui.exe*** found instide your Morrowind folder. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
 
 >**Display**
 >
@@ -185,7 +185,7 @@ Underwater Interior Effects
 Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 ```
-7. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to fixing banding. This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders\XEshaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
+7. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to [fixing banding](https://i.ytimg.com/vi/eJXfahupTi8/maxresdefault.jpg). This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders\XEshaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
 ```
 SSAO HQ
 Underwater Effects
