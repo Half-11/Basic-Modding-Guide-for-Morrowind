@@ -135,7 +135,7 @@ This mod makes it so that you pick plants just by activating them instead of ope
 
 2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
-3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. If you care about smoother models for the flora, you can repeat the process from the previous step for this folder. If you don't care about this, you can just ignore this folder.
+3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. Personally, I don't like the looks of the smoother models for flora and ignore this folder. If you  like them then you can repeat the process from the previous step for this folder.
 
 ## Step 2.3: Glow in the Dahrk
 Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
