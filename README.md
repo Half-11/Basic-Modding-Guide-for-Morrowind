@@ -1,4 +1,4 @@
-# Basic Modding Guide for The Elder Scrolls III: Morrowind Game of the Year Edition
+# Morrowind Basic Modding Guide
 
 ## About this guide
 This guide aims to help (new) players to improve the game of Morrowind by giving step-by-step instructions on how to install the most essential mods.
