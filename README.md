@@ -125,7 +125,7 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 2. In the zip file we just downloaded you'll find two folders ***00 Core + 01 Atlas Textures***. Extract the content of both folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.2: Graphic Herbalism - MWSE and OpenMW Edition
-This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting part of the plant you pick disappears.
+This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
 
 1. [Download Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
      - *Note: We will only need the Main File.*
