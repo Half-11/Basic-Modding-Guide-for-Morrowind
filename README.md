@@ -176,12 +176,11 @@ Finally, here are a few more minor graphical mods that are a nice  addition to t
 
 
 # §3 Setting up MGE XE
-
-5. Now open ***MGEXEgui.exe*** found instide your Morrowind folder. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
+Now it's time to set up MGE XE; the tool responsible for shaders and increased draw distance. Open ***MGEXEgui.exe*** found inside your Morrowind folder. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
 
 >**Display**
 >
->Resolution: your monitor resolution
+>Resolution: set this to your monitor resolution
 >
 >Windowed mode: checked
 >
@@ -197,7 +196,7 @@ Finally, here are a few more minor graphical mods that are a nice  addition to t
 >
 >Auto FOV: checked
 >
->FPS limiter: 60 (more frames will cause issues with animations)
+>FPS limiter: 60 (more frames can cause issues with animations)
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
