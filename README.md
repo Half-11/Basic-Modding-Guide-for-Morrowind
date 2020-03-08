@@ -148,9 +148,21 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 - `05 Raven Rock Glass Windows`
 - `05 Raven Rock Glass Windows Interior Sunrays`
 
+## Step 2.4: Weapon Sheathing
 
+1. [Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
 
+## Step 2.5: Remiros' Groundcover
 
+1. [Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+
+## Step 2.5 Some minor mods
+
+1. [WIP Detailed Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/44321?tab=files)
+
+2. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
+
+3. [Mist Retexture](https://www.nexusmods.com/morrowind/mods/44322)
 
 
 # §3 Setting up MGE XE
@@ -186,6 +198,10 @@ Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 ```
 7. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to [fixing banding](https://i.ytimg.com/vi/eJXfahupTi8/maxresdefault.jpg). This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders\XEshaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
+
+>>>>Krokantor's Enhanced Water Shader for MGE XE updated to work with latest MGE XE version.
+>>>>https://cdn.discordapp.com/attachments/381217735306248192/579434115720413184/Enhanced_Water_Shader_for_MGE_XE_2.1_wip.7z
+
 ```
 SSAO HQ
 Underwater Effects
@@ -231,30 +247,11 @@ deband_fogaware
 
 
 
-Weapon Sheathing
-
-Remiros' Groundcover
-https://www.nexusmods.com/morrowind/mods/46733
-
-WIP Detailed Correct UV Rocks
-https://www.nexusmods.com/morrowind/mods/44321?tab=files
-
-
-Better Waterfalls
-https://www.nexusmods.com/morrowind/mods/45424
-
-Mist Retexture
-https://www.nexusmods.com/morrowind/mods/44322
-
-RopeFenceFix
-
-
-Krokantor's Enhanced Water Shader for MGE XE updated to work with latest MGE XE version.
-https://cdn.discordapp.com/attachments/381217735306248192/579434115720413184/Enhanced_Water_Shader_for_MGE_XE_2.1_wip.7z
 
 
 
-Morrowind Essentials is a project aimed at the distribution of a single updated package for mods that are considered essential.
+
+
 
 As fun as it can be to browse trough modding guides, forums and pages, it can also be can be a headache; especially to people new to the game.
 
