@@ -226,7 +226,9 @@ Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 deband_fogaware
 ```
-8. Now we are going to the second tab from the left. Make sure to use the following settings:
+8. Now we are going to the second tab from the left. Run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**. You're asked to set resultions but we just want to use the default settings here; click **Create Land Textures**. When asked for *World mesh detail* leave this at the default *High* (or set it to *Very High* when you feel confident about your hardware). Click **Create Land Meshes**. In the *Statics* tab we want to leave the stetting default. Click **Create Statics** and wait for the program to finish. Click **Finish** when its done.
+
+Make sure to use the following settings:
 
 >**Distant Land**
 >
@@ -240,9 +242,9 @@ deband_fogaware
 >
 >Use Distant Statics: checked (Near: 130, Far: 600, Very Far: 780)
 >
->Dynamic ripples: checked (30 Height of waves)
+>Dynamic ripples: checked (50 Height of waves)
 >
->Caustic: 35% brightness
+>Caustic: 50% brightness
 >
 >Use high quality (exponential) fog: checked
 >
@@ -257,9 +259,6 @@ deband_fogaware
 >Use high quality (exponential) fog: checked (can be unchecked in favour of performance)
 >
 >High quality atmosphere & distance colouring: checked
-
-9. Now we are going to run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**.
-
 
 
 
