@@ -42,7 +42,7 @@ The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to d
 
 2. Extract the zip to your ***/Morrowind*** root directory, the one with the Morrowind.exe program in it (not Data Files).
 
-3. Set the Morrowind Code Patch program and Morrowind.exe as run as an administrator.
+3. Set the Morrowind Code Patch program and Morrowind.exe to run as an administrator.
      - *Instructions: When you put to the Morrowind Code Patch.exe executable in the root of your Morrowind folder, right-click on it to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
      - *Repeat this process for Morrowind.exe (also located in the root of your Morrowind folder).*
 
@@ -88,11 +88,14 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 1. Run the game once into the main menu before installing MGE XE.
 
 2. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
-     - *Note: Download the MGE XE Manual Install (skip on the MGE XE Installer).*
+     - *Note: Download the ***MGE XE Manual Install*** (skip on the MGE XE Installer).*
 
 3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it). When asked to overwrite files, click *Yes*.
 
-4. Before we are going to set up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
+4. Set the MGEXEgui.exe to run as an administrator.
+ *Instructions: right-click on the MGEXEgui.exe (in you Morrowind root folder) to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
+
+5. Before we are going to set up MGE XE, we want to run the ***MWSE-Update.exe*** we just copied.
      - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use more MWSE mods.*
 
 ## Step 1.7 Some minor essential mods
