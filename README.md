@@ -96,7 +96,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
      - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE 2.1 is actively maintained so it is recommended to do this now and then.*
 
 ## Step 1.7 Some minor essential mods
-Finally, there are a few minor mods that I consider essential. These files should all be extracted into the ***Morrowind/Data Files*** directory:
+Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
 
