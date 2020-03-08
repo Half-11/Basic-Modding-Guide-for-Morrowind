@@ -224,7 +224,7 @@ Sunshafts
 Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
 deband_fogaware
 ```
-8. Now we are going to the second tab from the left. Run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**. You're asked to set resultions but we just want to use the default settings here; click **Create Land Textures**. When asked for *World mesh detail* leave this at the default *High* (or set it to *Very High* when you feel confident about your hardware). Click **Create Land Meshes**. In the *Statics* tab we want to leave most stetting default though we want to set *Minimum static size* to 130.  Click **Create Statics** and wait for the program to finish. Click **Finish** when its done.
+8. Now we are going to the second tab from the left. Run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**. You're asked to set resultions but we just want to use the default settings here; click **Create Land Textures**. When asked for *World mesh detail* leave this at the default *High* (or set it to *Ultra High* when you feel confident about your hardware). Click **Create Land Meshes**. In the *Statics* tab we want to leave most stetting default though we want to set *Minimum static size* to 130.  Click **Create Statics** and wait for the program to finish. Click **Finish** when its done.
 
 Make sure to use the following settings:
 
@@ -252,7 +252,7 @@ Make sure to use the following settings:
 >
 >Per-pixel lightning shader: uncheck (it's extremely heavy on performance especially on a weak CPU)
 >
->Exponential distance multiplier 4.4
+>Exponential distance multiplier 4.0
 >
 >Use high quality (exponential) fog: checked (can be unchecked in favour of performance)
 >
