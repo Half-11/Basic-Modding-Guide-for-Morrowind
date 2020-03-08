@@ -125,7 +125,7 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
-2. In the zip file we just downloaded you'll find two folders ***00 Core + 01 Atlas Textures***. Extract the content of both folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract the content of this folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.2: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
