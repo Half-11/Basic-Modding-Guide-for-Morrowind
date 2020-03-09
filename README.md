@@ -7,6 +7,8 @@ Although the amount of information might be intimidating at first glance, the mo
 
 This guide is made up of three parts. The first part deals with the most essential mods. The second part are some mods that bring the game to a vanilla+ experience. The third and last part covers how to set up third party tool MGE XE.
 
+*Full disclosure: I'm the author of both Patch for Purists and Expansion Delay which are both recommended in this guide.*
+
 # §1 Essential Mods 
 
 ## Step 1.1: Before we begin
