@@ -172,7 +172,7 @@ Remiros' Groundcover is one of the best (if not the best) grass and groundcover 
 Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
 1. [WIP Detailed Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/44321?tab=files)
-     - *Instructions: This is the only mod in thisguide that we DON'T want to overwrite existing files when asked to do so; as we prefer to use the optimized ones from the Morrowind Optimization Patch.*
+     - *Instructions: This is the only mod in this guide that we DON'T want to overwrite existing files when asked; as we prefer to use the optimized ones from the Morrowind Optimization Patch.*
 
 2. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
 
