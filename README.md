@@ -72,18 +72,6 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
 
-## Step 1.6: Project Atlas
-Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
-
-1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
-     - *Warning: This mod is not recommended if you play the game on a very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay though.*
-
-2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
-     - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
-     - *The [Glow in the Dahrk (GitD)](https://www.nexusmods.com/morrowind/mods/45886) and [Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321) folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them before installing Project Atlas.*
-
-When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
-
 ## Step 1.6 MGE XE
 MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more.
 
@@ -115,13 +103,6 @@ Finally, there are a few minor mods that I consider essential. Again, extract th
 # §2 Optional mods for a Vanilla+ installation
 The following mods are all optional. If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods in a vanilla friendly way; read on.
 
-## Step 2.1: Intelligent Textures
-Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-
-1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
-
-2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-
 ## Step 2.1: Properly Smoothed Meshes
 Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
 
@@ -129,17 +110,7 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 
 2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract the content of this folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
-## Step 2.2: Graphic Herbalism - MWSE and OpenMW Edition
-This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
-
-1. [Download Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
-     - *Note: We will only need the Main File.*
-
-2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-
-3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. Personally, I don't like the looks of the smoother models for flora and ignore this folder. If you  like them then you can repeat the process from the previous step for this folder.
-
-## Step 2.3: Glow in the Dahrk
+## Step 2.2: Glow in the Dahrk
 Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 
 1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
@@ -151,13 +122,24 @@ Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
 - `03 Nord Glass Windows`
 - `03 Nord Glass Windows Interior Sunrays`
 
-## Step 2.4: Weapon Sheathing
-Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
+## Step 2.3: Project Atlas
+Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
 
-1. [Download Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
-     - *Note: We want the ***WeaponSheathing1.6-MWSE*** file (not ***WeaponSheathing1.6-OpenMW***).*
+1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
+     - *Warning: This mod is not recommended if you play the game on a very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay though.*
 
-2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
+     - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
+     - *The [Glow in the Dahrk (GitD)](https://www.nexusmods.com/morrowind/mods/45886) and [Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321) folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them before installing Project Atlas.*
+
+When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
+
+## Step 2.4: Intelligent Textures
+Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+
+1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
+
+2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.5: Remiros' Groundcover
 Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
@@ -168,7 +150,25 @@ Remiros' Groundcover is one of the best (if not the best) grass and groundcover 
 2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
      - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
 
-## Step 2.5 Some minor mods
+## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
+This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
+
+1. [Download Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
+     - *Note: We will only need the Main File.*
+
+2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
+3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. Personally, I don't like the looks of the smoother models for flora and ignore this folder. If you  like them then you can repeat the process from the previous step for this folder.
+
+## Step 2.7: Weapon Sheathing
+Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
+
+1. [Download Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+     - *Note: We want the ***WeaponSheathing1.6-MWSE*** file (not ***WeaponSheathing1.6-OpenMW***).*
+
+2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
+## Step 2.8 Some minor mods
 Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
 1. [WIP Detailed Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/44321?tab=files)
