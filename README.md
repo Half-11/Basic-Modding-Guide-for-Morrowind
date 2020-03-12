@@ -213,7 +213,7 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 >
 >FPS limiter: 60 (more frames can cause issues with animations)
 >
->Menu UI scaling (I would leave this 1,00 but if you have vision problems or the ingame letters are simply to small letters for your taste; you can increase this to e.g. 1,20)
+>Menu UI scaling (I would leave this 1,00 but if you have vision problems or the ingame letters are simply to small for your taste; you can increase this to e.g. 1,20)
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
