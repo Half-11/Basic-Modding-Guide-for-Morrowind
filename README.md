@@ -142,11 +142,11 @@ Project Atlas improves performance even further by using different techniques th
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
      - *Warning: This mod is not recommended if you play the game on a very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay though.*
 
-2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders to your ***Morrowind/Data Files*** directory.
-     - *Some of the modules come with ***Smoothed Meshes*** and ***Optional Hi-Res Texture*** folders. It's totally up to you whenever you want to install these or not.*
-     - *The [Glow in the Dahrk (GitD)](https://www.nexusmods.com/morrowind/mods/45886) and [Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321) folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them before installing Project Atlas.*
+2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders inside the *00 Core* folder to your ***Morrowind/Data Files*** directory.
 
-When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a BAIN archive folder structure intended for mod managers. For a simple setup like ours a manager is not needed. The only thing we want here are the contents of the subfolders.
+3. You'll find some more optional modules in the archive:
+     - ***30 Redware - Smoothed** and **40 Urns - Smoothed** can be installed if you chose to install **Properly Smoothed Meshes** earlier.*
+     - *The **Glow in the Dahrk (- Interior Sunrays)** and **[Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321)** folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them BEFORE installing Project Atlas.*
 
 ## Step 2.4: Intelligent Textures
 Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
