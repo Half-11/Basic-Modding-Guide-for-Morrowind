@@ -158,7 +158,7 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 
 2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
-3. If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder.
+3. If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder as above.
 
 ## Step 2.5: Remiros' Groundcover
 Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
