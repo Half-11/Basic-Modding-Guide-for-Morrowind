@@ -117,15 +117,17 @@ Finally, there are a few minor mods that I consider essential. Again, extract th
 # §2 Optional mods for a Vanilla+ installation
 The following mods are all optional. If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods in a vanilla friendly way; read on.
 
+All of the following mods are optional. Each can be skipped based on personal preference.
+
 ## Step 2.1: Properly Smoothed Meshes
-Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion. This mod is optional. If you're fine with the vanilla models, you can skip on this one.
+Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
 2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract the content of this folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.2: Glow in the Dahrk
-Glow in the Dahrk makes windows glow at night. Again, this mod is optional.
+Glow in the Dahrk makes windows glow at night.
 
 1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
 
