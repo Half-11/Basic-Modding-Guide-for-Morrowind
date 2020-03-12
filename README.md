@@ -137,6 +137,7 @@ Glow in the Dahrk makes windows glow at night.
 - `02 Interior Sunrays`
 - `03 Nord Glass Windows`
 - `03 Nord Glass Windows Interior Sunrays`
+     - *Note: Don't install the **Hi Res Window Texture Replacer** folder right away.* because we want it to overwrite the Intelligent Textures (Step 2.4) later on in the guide.
 
 ## Step 2.3: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
@@ -156,6 +157,9 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
 
 2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
+3. If you chose to install Glow in the Dahrk (Step 2.2) you can now install its **Hi Res Window Texture Replacer** folder.
+
 
 ## Step 2.5: Remiros' Groundcover
 Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
