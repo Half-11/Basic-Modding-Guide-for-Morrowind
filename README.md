@@ -259,7 +259,7 @@ Make sure to use the following settings:
 >
 >High quality atmosphere & distance colouring: checked
 
-9. The third *In-Game* tab is self-explanatory. I like to check to following (in addition to the standard settings):
+9. The third *In-Game* tab is self-explanatory. I like to check to following (in addition to the default settings):
 
 >**Config**
 >
