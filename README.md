@@ -203,19 +203,15 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 >
 >Borderless window: checked (helps alt-tabbing the game)
 >
->Antialiasing: 8x (or 4x if you are worried about performance)
->
->Anisotropic filtering: 8x
+>Antialiasing: 8x
 >
 >VSync: On
 >
 >Enable shaders: checked
 >
->Auto FOV: checked
->
 >FPS limiter: 60 (more frames can cause issues with animations)
 >
->Fog mode: Range vertex (Best)
+>Menu UI scaling (if you have vision problemsa or just a hard time reading the small letters, you can increase this to e.g. 1,20)
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
