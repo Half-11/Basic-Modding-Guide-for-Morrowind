@@ -32,7 +32,7 @@ Before we start installing mods we need to create an account and install some re
 current steam client limited to 1 library per partition 
 "2" "C:\\Games"*
      - *GOG users need to remove the default Meshes, Textures, Icons and Bookart folders found in Morrowind\Data Files after a fresh install. The original Construction Set disc (a separate disc) came with uncompressed assets. GOG thought it was a good idea to put those in the games Data Files folder, but the game can't handle these files well. This is causing the load times to slow down without any visual improvements. Don't worry about deleting these folders; all files are already present in the BSA.*
-     - *In addition, I would also recommended do remove the "official plugins" that come with the GOG version. Remove the following files from your Morrowind\Data Files folder:*
+     - *In addition, I would recommended GOG users to remove the "official plugins" that come with this version of the game. Remove the following files from your Morrowind\Data Files folder:*
 ```
 adamantiumarmor.esp
 AreaEffectArrows.esp
