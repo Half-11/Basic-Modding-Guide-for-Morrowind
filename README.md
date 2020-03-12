@@ -275,7 +275,9 @@ We can now close MGE XE as we don't need to change anything in the other tabs.
 
 # §4 Finally
 From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
-Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues.
+
+
+Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues. Other mods that were looked up to in the past didn't exactly age well (LGNPC, Morrowind Comes Alive, etc).
 
 
 
