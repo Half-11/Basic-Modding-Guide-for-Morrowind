@@ -194,8 +194,7 @@ Finally, here are a few more minor graphical mods that are a nice  addition to t
 
 
 # §3 Setting up MGE XE
-Now it's time to set up MGE XE; the tool responsible for shaders and increased draw distance. Open ***MGEXEgui.exe*** found inside your Morrowind folder. You will see a tabbed interface. We will start setting up the first tab from the left. Make sure to use the following settings:
-
+Now it's time to set up MGE XE; the tool responsible for shaders and increased draw distance. Open ***MGEXEgui.exe*** found inside your Morrowind folder. You will see a tabbed interface. We will use default settings unless otherwise indicated. Make sure to use the following settings in the first tab from the left:
 >**Display**
 >
 >Resolution: set this to your monitor resolution (after this is don't want to touch the resolution in the Morrowind Launcher ever again)
