@@ -223,19 +223,6 @@ Bloom Soft
 ```
 Hit *Save*.
 
-7. **Optional step (can be skipped)**: *deband_fogaware* is a shader that blurs the fog in addition to [fixing banding](https://i.ytimg.com/vi/eJXfahupTi8/maxresdefault.jpg). This shader does not come with MGE XE out of the box but can be [downloaded here](https://cdn.discordapp.com/attachments/381217735306248192/587447644876439572/deband_fogaware.fx). Put the *deband_fogaware.fx* file inside your ```Morrowind\Data Files\shaders\XEshaders``` folder. Close and restart ***MGEXEgui.exe*** and put the new shader at the end of your *Active Shaders* list (like we did in the previous step). It should now look like this:
-
->>>>Krokantor's Enhanced Water Shader for MGE XE updated to work with latest MGE XE version.
->>>>https://cdn.discordapp.com/attachments/381217735306248192/579434115720413184/Enhanced_Water_Shader_for_MGE_XE_2.1_wip.7z
-
-```
-SSAO HQ
-Underwater Effects
-Underwater Interior Effects
-Sunshafts
-Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
-deband_fogaware
-```
 8. Now we are going to the second tab from the left. Run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**. You're asked to set resultions but we just want to use the default settings here; click **Create Land Textures**. When asked for *World mesh detail* leave this at the default *High* (or set it to *Ultra High* when you feel confident about your hardware). Click **Create Land Meshes**. In the *Statics* tab we want to leave most stetting default though we want to set *Minimum static size* to 130.  Click **Create Statics** and wait for the program to finish. Click **Finish** when its done.
 
 Make sure to use the following settings:
