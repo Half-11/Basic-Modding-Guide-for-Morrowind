@@ -89,18 +89,18 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 ## Step 1.6 MGE XE
 MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more.
 
-1. Run the game once into the main menu before installing MGE XE.
+1. Run the game once into the main menu and exit, before installing MGE XE.
 
 2. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
      - *Note: Download the ***MGE XE Manual Install*** (skip on the MGE XE Installer).*
 
-3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it). When asked to overwrite files, click *Yes*.
+3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it; NOT Morrowind\Data Files). When asked to overwrite files, click *Yes*.
 
 4. Set the MGEXEgui.exe to run as an administrator.
      - *Instructions: right-click on the MGEXEgui.exe (in you Morrowind root folder) to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
 
 5. We now want to run the ***MWSE-Update.exe*** we just copied inside the Morrowind root folder.
-     - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use more MWSE mods.*
+     - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use other MWSE mods.*
 
 ## Step 1.7 Some minor essential mods
 Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
@@ -198,11 +198,11 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 
 >**Display**
 >
->Resolution: set this to your monitor resolution
+>Resolution: set this to your monitor resolution (after this is don't want to touch the resolution in the Morrowind Launcher ever again)
 >
 >Windowed mode: checked
 >
->Borderless window: checked
+>Borderless window: checked (helps alt-tabbing the game)
 >
 >Antialiasing: 8x (or 4x if you are worried about performance)
 >
@@ -224,8 +224,7 @@ SSAO HQ (this can be replaced with SSAO Fast or can be dropped in favor of perfo
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
-Bloom Soft (you can also use Bloom Fine here for a more subtle bloom)
-Eye Adaptation (HDR)
+Bloom Fine
 ```
 Hit *Save*.
 
