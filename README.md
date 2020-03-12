@@ -44,7 +44,7 @@ master_index.esp
 Siege at Firemoth.esp
 ```
  
-   - *The official plugins are pretty buggy and in my opinion only a few are worth playing (Bitter Coast Sounds, Master Index, Siege at Firemoth). If you want to play with these mods, you could take a look at the [fixed versions in UMOPP 3.0.4](https://www.nexusmods.com/morrowind/mods/43931) (I would ignore the Merged and Compatibility Versions and go with the UMOPP 3.0.4 file).*
+   - *The official plugins are pretty buggy and in my opinion only a few are worth playing really (Bitter Coast Sounds, Master Index, Siege at Firemoth). If you want to play with these mods, you could take a look at the [fixed versions in UMOPP 3.0.4](https://www.nexusmods.com/morrowind/mods/43931) (I would ignore the Merged and Compatibility Versions and go with the UMOPP 3.0.4 file).*
 
 
 - Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind CD / Tribunal CD / Bloodmoon CD / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
@@ -211,7 +211,7 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 >
 >FPS limiter: 60 (more frames can cause issues with animations)
 >
->Menu UI scaling (I would leave this 1,00 but if you have vision problems, or the ingame letters are simply to small letters for your taste; you can increase this to e.g. 1,20)
+>Menu UI scaling (I would leave this 1,00 but if you have vision problems or the ingame letters are simply to small letters for your taste; you can increase this to e.g. 1,20)
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
@@ -221,7 +221,7 @@ Underwater Interior Effects
 Sunshafts
 Bloom Soft
 ```
-Hit *Save*.
+     Hit *Save*.
 
 8. Now we are going to the second tab from the left. Run the **Distant land generator wizard** (the square button at the top left in the Distant Land tab). Hit **Select all** and then **Continue**. You're asked to set resultions but we just want to use the default settings here; click **Create Land Textures**. When asked for *World mesh detail* leave this at the default *High* (or set it to *Ultra High* when you feel confident about your hardware). Click **Create Land Meshes**. In the *Statics* tab we want to leave most stetting default though we want to set *Minimum static size* to 130.  Click **Create Statics** and wait for the program to finish. Click **Finish** when its done.
 
