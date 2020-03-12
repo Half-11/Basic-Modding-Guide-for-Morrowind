@@ -263,7 +263,7 @@ Skip Opening movie
 Allow yes to all load errors
 Allow screenshots
 ```
-
+We can now close MGE XE as we don't need to change anything in the other tabs.
 
 
 
