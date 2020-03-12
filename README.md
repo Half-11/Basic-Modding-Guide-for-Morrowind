@@ -220,7 +220,7 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 
 6. Click **Shader setup...** in the first MGE XE tab. Then click **Modding >>>**. Now double click available shaders in the following order:
 ```
-SSAO HQ (this can be replaced with SSAO Fast or can be dropped in favor of performance)
+SSAO HQ
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
