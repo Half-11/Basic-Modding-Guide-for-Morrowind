@@ -261,7 +261,7 @@ Make sure to use the following settings:
 
 9. The third *In-Game* tab is self-explanatory. I like to check to following (in addition to the standard settings):
 ```
-Skip Opening movie
+Skip opening movie
 Allow yes to all load errors
 Allow screenshots
 ```
