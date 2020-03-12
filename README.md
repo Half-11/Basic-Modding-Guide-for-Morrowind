@@ -32,6 +32,19 @@ Before we start installing mods we need to create an account and install some re
 current steam client limited to 1 library per partition 
 "2" "C:\\Games"*
      - *GOG users need to remove the default Meshes, Textures, Icons and Bookart folders found in Morrowind\Data Files after a fresh install. The original Construction Set disc (a separate disc) came with uncompressed assets. GOG thought it was a good idea to put those in the games Data Files folder, but the game can't handle these files well. This is causing the load times to slow down without any visual improvements. Don't worry about deleting these folders; all files are already present in the BSA.*
+- *In addition, I would also recommended do remove the "official plugins" that come with the GOG version. Remove the following files from your Morrowind\Data Files folder:
+```
+adamantiumarmor.esp
+AreaEffectArrows.esp
+bcsounds.esp
+EBQ_Artifact.esp
+entertainers.esp
+LeFemmArmor.esp
+master_index.esp
+Siege at Firemoth.esp
+```
+The official plugins are pretty buggy and in my opinion only a few are worth playing (Bitter Coast Sounds, Master Index, Siege at Firemoth). If you want to play with these mods, you could take a look at the [fixed versions in UMOPP 3.0.4](https://www.nexusmods.com/morrowind/mods/43931).
+
 
 - Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind CD / Tribunal CD / Bloodmoon CD / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *Note: When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
