@@ -145,7 +145,7 @@ Project Atlas improves performance even further by using different techniques th
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders inside the *00 Core* folder to your ***Morrowind/Data Files*** directory.
 
 3. You'll find some more optional modules in the archive:
-     - ***30 Redware - Smoothed** and **40 Urns - Smoothed** can be installed if you chose to install **Properly Smoothed Meshes** earlier.*
+     - ***30 Redware - Smoothed** and **40 Urns - Smoothed** can be installed if you chose to install Properly Smoothed Meshes earlier.*
      - *The **Glow in the Dahrk (- Interior Sunrays)** and **[Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321)** folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them BEFORE installing Project Atlas.*
 
 ## Step 2.4: Intelligent Textures
