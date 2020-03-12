@@ -224,7 +224,7 @@ SSAO HQ
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
-Bloom Fine
+Bloom Soft
 ```
 Hit *Save*.
 
