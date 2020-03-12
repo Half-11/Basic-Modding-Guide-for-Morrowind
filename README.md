@@ -235,7 +235,7 @@ Make sure to use the following settings:
 >
 >Auto set other distances: checked (By Draw Distance)
 >
->Water Reflections: check all (Nearby Statics can be skipped in favour of performance)
+>Water Reflections: check all but Blur Reflections
 >
 >Use Distant Statics: checked (Near: 130, Far: 600, Very Far: 780)
 >
@@ -257,10 +257,15 @@ Make sure to use the following settings:
 >
 >High quality atmosphere & distance colouring: checked
 
-
-
-
-
+9. The third *In-Game* tab is self-explanatory. I like to check to following (in addition to the standard settings):
+```
+Skip Opening movie
+Respnsive menu caching
+Allow yes to all load errors
+Allow screenshots
+Thread loaing
+Hit fader
+```
 
 
 
