@@ -261,9 +261,12 @@ Make sure to use the following settings:
 
 9. The third *In-Game* tab is self-explanatory. I like to check to following (in addition to the standard settings):
 
+>**Config**
+>
 >Skip opening movie
 >
 >Allow yes to all load errors
+>
 >Allow screenshots
 
 We can now close MGE XE as we don't need to change anything in the other tabs.
