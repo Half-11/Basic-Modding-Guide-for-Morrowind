@@ -278,8 +278,7 @@ Now there are a few things left to do.
 
 1. Open **Morrowind Launcher** trough shortcut or *Morrowind\Morrowind Launcher.exe*. Click on the *Data Files* button. Here we want to activate the mods we want to play with. To activate mods you'll have to double click them so they get a check mark.
 - Don't activate the .esps that start with **Rem_**; these are our grass mods and only need to be active durning Distant Land generation within MGE XE.
-- **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky every day. 
-
+- **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky scattering colours every day. Highly recommended to use.
 
 
 From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
