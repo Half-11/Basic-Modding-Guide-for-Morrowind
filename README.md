@@ -280,6 +280,10 @@ Now there are a few things left to do.
 - Don't activate the .esps that start with **Rem_**; these are our grass mods and only need to be active durning Distant Land generation within MGE XE.
 - **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky scattering colours every day. Highly recommended to use.
 
+2. The last thing set to do is adjusting the Gamma Correction option ingame (Options > Video). This affects the overall brightness of the game. If you like how the game looks, you might want to skip this step, but since every monitor is different it might be worth to tweak this setting a little.
+
+
+
 
 From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
 
