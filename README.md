@@ -276,10 +276,9 @@ We can now close MGE XE as we don't need to change anything in the other tabs.
 # §4 Final steps
 Now there are a few things left to do.
 
-1. Open **Morrowind Launcher** trough shortcut or *Morrowind\Morrowind Launcher.exe*. Click on the *Data Files* button. Here
-
-
-
+1. Open **Morrowind Launcher** trough shortcut or *Morrowind\Morrowind Launcher.exe*. Click on the *Data Files* button. Here we want to activate the mods we want to play with. To activate mods you'll have to double click them so they get a check mark.
+- Don't activate the .esps that start with **Rem_**; these are our grass mods and only need to be active durning Distant Land generation.
+- **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky every day. 
 
 
 
