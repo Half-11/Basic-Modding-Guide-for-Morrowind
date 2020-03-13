@@ -273,7 +273,16 @@ Make sure to use the following settings:
 
 We can now close MGE XE as we don't need to change anything in the other tabs.
 
-# §4 Finally
+# §4 Final steps
+Now there are a few things left to do.
+
+1. Open **Morrowind Launcher** trough shortcut or *Morrowind\Morrowind Launcher.exe*. Click on the *Data Files* button. Here
+
+
+
+
+
+
 From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
 
 
