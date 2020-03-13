@@ -170,6 +170,7 @@ Remiros' Groundcover is one of the best (if not the best) grass and groundcover 
 
 ## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
+     - *Note: [Happy Harvesting](https://www.nexusmods.com/morrowind/mods/45627) does the same thing without the visual part. Purist players might prefer this mod instead.
 
 1. [Download Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
      - *Note: We will only need the Main File.*
@@ -305,3 +306,14 @@ tes3cmd
 https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z
 
 resetdates.bat
+
+
+
+MGE/MWSE Mods List
+https://github.com/Lucevar/mw-immersion-mods/blob/master/mwse.md
+
+Tamriel Rebuilt Recommended mods
+https://www.tamriel-rebuilt.org/recommended-mods
+
+Merlord's Immersive Modlist
+https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit?usp=sharing
