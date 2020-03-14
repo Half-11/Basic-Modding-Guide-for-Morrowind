@@ -190,7 +190,7 @@ Weapon Sheathing makes unreadied weapons and shields appear on the character's h
 ## Step 2.8 Some minor mods
 Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
-1. [WIP Detailed Correct UV Rocks](https://www.nexusmods.com/morrowind/mods/44321?tab=files)
+1. [Correct UV Rocks](http://mw.modhistory.com/download-56-12003)
      - *Instructions: This is the only mod in this guide that we DON'T want to overwrite existing files when asked; as we prefer to use the optimized ones from the Morrowind Optimization Patch.*
 
 2. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
