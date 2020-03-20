@@ -80,7 +80,7 @@ Patch for Purists is an unofficial fan patch for Morrowind. It  takes a more con
 Morrowind Optimization Patch (MOP) does two things: it noticeably improves performance and fixes mesh errors. 
 
 1. [Download Correct UV Rocks](http://mw.modhistory.com/download-56-12003)
-     - *Note: Every now and then the servers of Morrowind Modding History are down. If that is the case then a mirror can be found [here](https://web.archive.org/web/20161103112615/mw.modhistory.com/download-56-12003).*
+     - *Note: Every now and then the servers of Morrowind Modding History are down. If that is the case, then a mirror can be found [here](https://web.archive.org/web/20161103112615/mw.modhistory.com/download-56-12003).*
 
 2. Extract the *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
