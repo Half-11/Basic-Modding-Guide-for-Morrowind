@@ -79,9 +79,12 @@ Patch for Purists is an unofficial fan patch for Morrowind. It  takes a more con
 ## Step 1.5: Morrowind Optimization Patch
 Morrowind Optimization Patch (MOP) does two things: it noticeably improves performance and fixes mesh errors. 
 
-1. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
+1. [Download Correct UV Rocks](http://mw.modhistory.com/download-56-12003)
+     - *Note: Every now and then the servers of Morrowind Modding History are down. If that is the case then a mirror can be found [here](https://web.archive.org/web/20161103112615/mw.modhistory.com/download-56-12003).*
 
-2. Extract the *Meshes* and *Textures* folders and *Lake Fjalding Anti-Suck.esp* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
+
+3. Extract the *Meshes* and *Textures* folders and *Lake Fjalding Anti-Suck.esp* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
      - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a archive folder structure intended for mod managers (called "BAIN installer"). For a simple setup like ours a mod manager is not needed. The only thing we want here are the Meshes and Textures subfolders.*
      - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
