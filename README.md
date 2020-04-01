@@ -101,10 +101,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 
 3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it; NOT Morrowind\Data Files). When asked to overwrite files, click *Yes*.
 
-4. Set the MGEXEgui.exe to run as an administrator.
-     - *Instructions: right-click on the MGEXEgui.exe (in you Morrowind root folder) to view the contextual menu. Then, click or tap on Properties. In the Properties window, go to the Compatibility tab. At the bottom of the window, check the box that says "Run this program as an administrator" and then click or tap on Apply or OK.*
-
-5. We now want to run the ***MWSE-Update.exe*** we just copied inside the Morrowind root folder.
+4. We now want to run the ***MWSE-Update.exe*** we just copied inside the Morrowind root folder.
      - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use other MWSE mods.*
 
 ## Step 1.7 Some minor essential mods
