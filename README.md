@@ -90,7 +90,7 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
 
 ## Step 1.6 MGE XE
-MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more.
+MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more. Even if you don't plan on using these, it is recommended to install MGE XE for its added stability and the ability to use MWSE mods.
 
 1. Run the game once into the main menu and exit, before installing MGE XE.
 
