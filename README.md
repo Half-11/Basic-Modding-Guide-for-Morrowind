@@ -68,6 +68,7 @@ The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to d
 The defealt selection is pretty good and recommended for new players. We want to add a few patches however. Under the *Beta* tab select the following:
 - `Sea water sound falloff fix`
 - `Actor collision box fix`
+
 We need to select two other patches under the *Mod specific* tab select to ensure functionality for Patch for Purists:
 - `Separate axe inventory sounds`
 - `Creature voiceover enable`
