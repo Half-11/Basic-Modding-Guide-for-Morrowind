@@ -264,7 +264,7 @@ Make sure to use the following settings:
 >
 >Use high quality (exponential) fog: checked (can be unchecked in favour of performance)
 >
->High quality atmosphere & distance colouring: checked
+>High quality atmosphere & distance colouring: checked (unless you prefer the white only fog from the vanilla game)
 
 9. The third *In-Game* tab is self-explanatory. I like to check to following (in addition to the default settings):
 
