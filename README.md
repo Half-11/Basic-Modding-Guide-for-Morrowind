@@ -179,6 +179,10 @@ This mod makes it so that you pick plants just by activating them instead of ope
 
 3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. Personally, I don't like the looks of the smoother models for flora and ignore this folder. If you  like them then you can repeat the process from the previous step for this folder.
 
+4. [Download Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864)
+
+5. Extract the zip to your ***Morrowind/Data Files*** directory.
+
 ## Step 2.7: Weapon Sheathing
 Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
 
