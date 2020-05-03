@@ -209,9 +209,9 @@ Now it's time to set up MGE XE; the tool responsible for shaders and increased d
 >
 >Resolution: set this to your monitor resolution (after this is don't want to touch the resolution in the Morrowind Launcher ever again)
 >
->Windowed mode: checked
+>Windowed mode: checked (helps alt-tabbing the game with the setting below)
 >
->Borderless window: checked (helps alt-tabbing the game)
+>Borderless window: checked
 >
 >Antialiasing: 8x
 >
