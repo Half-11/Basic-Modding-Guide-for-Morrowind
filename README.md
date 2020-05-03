@@ -136,7 +136,7 @@ Glow in the Dahrk makes windows glow at night.
 - `01 Hi Res Window Texture Replacer (skip if you decided not to use Intelligent Textures above)`
 - `02 Interior Sunrays`
 - `03 Nord Glass Windows Interior Sunrays`
-     - *Note: **05 Raven Rock Glass Windows Interior Sunrays** can be installed if you're absolutly sure you don't use any mod that drastically changes Solstheim position (e.g. Anthology Solstheim, Vvardenfell and Solstheim Worldspace Remaster).
+     - *Note: **05 Raven Rock Glass Windows Interior Sunrays** can be installed if you're absolutly sure you don't use any mod that drastically changes Solstheims position (e.g. Anthology Solstheim, Vvardenfell and Solstheim Worldspace Remaster).
      
 ## Step 2.3: Project Atlas
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
