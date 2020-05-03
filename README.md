@@ -233,7 +233,7 @@ Make sure to use the following settings:
 >
 >Use Distant Land: checked
 >
->Draw Distance: 3,7 cells (this is what I personaly use but anything beteen 3.0 and 5.0 seems reasonable to aim for)
+>Draw Distance: 3,7 cells (this is what I personaly use but anything beteen 3.0 and 5.0 is reasonable to aim for)
 >
 >Auto set other distances: checked (By Draw Distance)
 >
