@@ -124,7 +124,7 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
-2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract the content of this folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.2: Glow in the Dahrk
 Glow in the Dahrk makes windows glow at night.
