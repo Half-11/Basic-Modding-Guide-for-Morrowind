@@ -297,7 +297,9 @@ Now there are a few things left to do.
 
 
 # §5 Where to go from here
-- From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
+From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
+
+Some final tips:
 - Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues.
 - Another thing to keep in mind is that mods that were looked up to in the past, didn't necessarily aged well (LGNPC, Morrowind Comes Alive, Better Heads, Accurate Attack etc).
 - A good way to discover new mods is taking inspiration from other guides. Some guides which I can recommend to take a look at:
