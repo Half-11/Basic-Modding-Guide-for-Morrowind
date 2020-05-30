@@ -301,7 +301,7 @@ Now there are a few things left to do.
 - Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues.
 - Another thing to keep in mind is that mods that were looked up to in the past, didn't necessarily aged well (LGNPC, Morrowind Comes Alive, Better Heads, Accurate Attack etc).
 - A good way to discover new mods is taking inspiration from other guides. Some guides which I can recommend to take a look at:
-[Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md)
+[Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md), 
 [Danae's Journal](http://danaeplays.thenet.sk/tag/modding/), 
 [Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods), 
 [DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide), 
