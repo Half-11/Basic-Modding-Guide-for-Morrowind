@@ -302,11 +302,11 @@ Now there are a few things left to do.
 - Another thing to keep in mind is that mods that were looked up to in the past, didn't necessarily aged well (LGNPC, Morrowind Comes Alive, Better Heads, Accurate Attack etc).
 - A good way to discover new mods is taking inspiration from other guides. Some guides which I can recommend to take a look at:
 [Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md)
-[Danae's Journal](http://danaeplays.thenet.sk/tag/modding/)
-[Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods)
-[DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide)
-[Tamriel Rebuilt Recommended Mods](https://www.tamriel-rebuilt.org/recommended-mods)
-[Merlord's Immersive Modlist](https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit#gid=0)
+[Danae's Journal](http://danaeplays.thenet.sk/tag/modding/), 
+[Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods), 
+[DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide), 
+[Tamriel Rebuilt Recommended Mods](https://www.tamriel-rebuilt.org/recommended-mods), and last but not least 
+[Merlord's Immersive Modlist](https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit#gid=0).
 
 When it comes to modding Morrowind; more is not always better.
 I would urge you not to install dozens of mods and hope you get it right.
