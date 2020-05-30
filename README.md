@@ -296,14 +296,17 @@ Now there are a few things left to do.
 2. The last thing set to do is adjusting the Gamma Correction option in-game (Options > Video). This affects the overall brightness of the game. If you like how the game looks, you might want to skip this step, but since every monitor is different it might be worth to tweak this setting to your preference.
 
 
-
-
-From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
-
-
-Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues. Other mods that were looked up to in the past didn't exactly age well (LGNPC, Morrowind Comes Alive, etc).
-
-
+# §5 Where to go from here
+- From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
+- Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues.
+- Another thing to keep in mind is that mods that were looked up to in the past, didn't necessarily aged well (LGNPC, Morrowind Comes Alive, Better Heads, Accurate Attack etc).
+- A good way to discover new mods is taking inspiration from other guides. Some guides which I can recommend to take a look at:
+[Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md)
+[Danae's Journal](http://danaeplays.thenet.sk/tag/modding/)
+[Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods)
+[DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide)
+[Tamriel Rebuilt Recommended Mods](https://www.tamriel-rebuilt.org/recommended-mods)
+[Merlord's Immersive Modlist](https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit#gid=0)
 
 When it comes to modding Morrowind; more is not always better.
 I would urge you not to install dozens of mods and hope you get it right.
