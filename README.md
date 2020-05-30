@@ -300,21 +300,10 @@ Now there are a few things left to do.
 From here on you can decide to install your own selection of mods on top of this guide, though one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
 
 Some final tips:
-- Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues.
+- Almost twenty years of modding gave us lots of great mods but even more crappy ones. Don't expect to improve the game by installing dozens of mods that just sound good on paper. Chances are they don't meet the quality of the orignal game or cause (compatibility) issues. When it comes to modding Morrowind; more is not always better.
 - Another thing to keep in mind is that mods that were looked up to in the past, didn't necessarily aged well (LGNPC, Morrowind Comes Alive, Better Heads, Accurate Attack etc).
 - A good way to discover new mods is taking inspiration from other guides. Some guides which I can recommend to take a look at:
-[Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md), 
-[Danae's Journal](http://danaeplays.thenet.sk/tag/modding/), 
-[Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods), 
-[DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide), 
-[Tamriel Rebuilt Recommended Mods](https://www.tamriel-rebuilt.org/recommended-mods), and last but not least 
-[Merlord's Immersive Modlist](https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit#gid=0).
-
-When it comes to modding Morrowind; more is not always better.
-I would urge you not to install dozens of mods and hope you get it right.
-
-
-
+[Tamriel Rebuilt Recommended Mods](https://www.tamriel-rebuilt.org/recommended-mods), [Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md), [Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods), [Danae's Journal](http://danaeplays.thenet.sk/tag/modding/), [DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide), and last but not least [Merlord's Immersive Modlist](https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit#gid=0).
 
 
 As fun as it can be to browse trough modding guides, forums and pages, it can also be can be a headache; especially to people new to the game.
@@ -323,7 +312,6 @@ tes3cmd
 https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/mlox/tes3cmd-0.37v-2013.10.06.7z
 
 resetdates.bat
-
 
 
 MGE/MWSE Mods List
