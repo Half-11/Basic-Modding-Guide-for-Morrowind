@@ -304,7 +304,7 @@ Some final tips:
 - Another thing to keep in mind is that mods that were looked up to in the past, didn't necessarily aged well (LGNPC, Morrowind Comes Alive, Better Heads, Accurate Attack etc).
 - A good way to discover new mods is taking inspiration from other guides. Some recent guides which I can recommend to take a look at are:
 [Tamriel Rebuilt Recommended Mods](https://www.tamriel-rebuilt.org/recommended-mods), [Sigourn's Mod List](https://github.com/Sigourn/morrowind-improved/blob/master/modlist.md), [Lucevar's MW Immersion Mods](https://github.com/Lucevar/mw-immersion-mods), [Danae's Journal](http://danaeplays.thenet.sk/tag/modding/), [DassiD's Morrowind Graphics Guide](https://wiki.nexusmods.com/index.php/Morrowind_graphics_guide), and last but not least [Merlord's Immersive Modlist](https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit#gid=0).
-- Finally, a word of advice. Take it or leave it. Modding can be a great activity to take your mind of things. However, speaking from my own experiences, it can also be [addictive and take on unhealthy forms](https://www.youtube.com/watch?v=9QiE-M1LrZk). When you find yourself in an endless loop of modding, trying to achieve this "perfectly modded game", ask yourself if this is really quality relaxing time? Take care.
+- Finally, a word of advice. Take it or leave it. Modding can be a great activity to take your mind of things. However, speaking from my own experiences, it can also be [addictive and take on unhealthy forms](https://www.youtube.com/watch?v=9QiE-M1LrZk). When you find yourself in an endless loop of modding, trying to achieve this "perfectly modded game", ask yourself if this is really quality relaxing time? Take care!
 
 
 
