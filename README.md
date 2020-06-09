@@ -6,9 +6,9 @@
 ## About this guide
 This guide aims to help (new) players to improve the game of Morrowind by giving step-by-step instructions on how to install the most essential mods.
 
-Although the amount of information might be intimidating at first glance, the modlist itself is pretty basic. The information is there so you know exactly what to do in each scenario.
+Although the amount of information might be intimidating at first glance, the modlist itself is actual pretty basic. The information is there so you know exactly what to do in each scenario.
 
-This guide is made up of three parts. The first part deals with the most essential mods (8 total). The second optional part are some more mods (10) that bring the game to a vanilla+ experience. The third and last part covers how to set up third party tool MGE XE.
+This guide is made up of three parts. The first part deals with the most essential mods (8 total). The second (optional) part are some more mods (10) to "polish" the game into a vanilla+ experience. The third and last part covers how to set up third party tool MGE XE.
 
 *Full disclosure: I'm the author of both Patch for Purists and Expansion Delay which are recommended in this guide.*
 
