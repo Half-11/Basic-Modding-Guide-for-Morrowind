@@ -10,7 +10,7 @@ Although the amount of information might be intimidating at first glance, the mo
 
 This guide is made up of three parts:
 1) The first part deals with the most essential mods (8 total).
-2) The second (optional) part are some more mods (10) to "polish" the game into a vanilla+ experience.
+2) The second (optional) part are some more mods to "polish" the game into a vanilla+ experience (10 total).
 3) The third and last part covers how to set up third party tool MGE XE.
 
 *Full disclosure: I'm the author of both Patch for Purists and Expansion Delay which are recommended in this guide.*
