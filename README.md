@@ -299,6 +299,9 @@ Now there are a few things left to do.
 
 2. The last thing set to do is adjusting the Gamma Correction option in-game (Options > Video). This affects the overall brightness of the game. If you like how the game looks, you might want to skip this step, but since every monitor is different it might be worth to tweak this setting to your preference.
 
+3. preformance
+Shaders are pretty cheap if you have a somewhat decent GPU. Draw distance kills your frames, because CPU bottleneck and all that jazz.
+
 
 # §5 Where to go from here
 From here on you can decide to install your own selection of mods, on top of this guide. However, one could argue that a slightly modded vanilla setup is the best way of playing Morrowind (especially for people how experience the game for the first time).
