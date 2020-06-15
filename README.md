@@ -295,6 +295,7 @@ Now there are a few things left to do.
 1. Open **Morrowind Launcher** trough the shortcut or *Morrowind\Morrowind Launcher.exe*. Click on the *Data Files* button. Here we want to activate the mods we want to play with. To activate mods you'll have to double click them so they get a check mark.
 - Don't activate the .esps that start with **Rem_**; these are our grass mods and only need to be active durning Distant Land generation within MGE XE.
 - **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky scattering colours every day. It is optional, but highly recommended to use.
+- You might notice that not all mods installed will appear in this list. This is because not every mod depends on an .esp or .esm file to function. Some simply replace models or textures and other depend on MWSE.
 
 2. The last thing set to do is adjusting the Gamma Correction option in-game (Options > Video). This affects the overall brightness of the game. If you like how the game looks, you might want to skip this step, but since every monitor is different it might be worth to tweak this setting to your preference.
 
