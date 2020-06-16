@@ -130,7 +130,7 @@ Finally, there are a few minor mods that I consider essential. Again, extract th
 
 
 # §2 Optional mods for a Vanilla+ installation
-If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods in a vanilla friendly way; read on.
+If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods, read on.
 
 All of the following mods are optional. Each can be skipped based on personal preference.
 
