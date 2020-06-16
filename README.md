@@ -113,7 +113,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 4. We now want to run the ***MWSE-Update.exe*** we just copied inside the Morrowind root folder.
      - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use other MWSE mods.*
 
-5. [Download the EdgeAA shader for MGE XE](https://cdn.discordapp.com/attachments/381217735306248192/609149467962376224/EdgeAA.zip).
+5. [Download the EdgeAA shader for MGE XE](https://cdn.discordapp.com/attachments/381217735306248192/609149467962376224/EdgeAA.zip) (direct link)
 
 6. Extract the zip to your ```Morrowind``` root folder. We need this shader later on in the guide.
 
