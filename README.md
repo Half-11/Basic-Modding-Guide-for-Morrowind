@@ -243,8 +243,8 @@ SSAO HQ
 Underwater Effects
 Underwater Interior Effects
 Sunshafts
-Bloom Soft (people who don't like bloom can skip this one)
 EdgeAA
+Bloom Soft (people who don't like bloom can skip this one)
 ```
    Hit *Save*.
 
