@@ -17,9 +17,8 @@ This guide is made up of three parts:
 
 There are *Essential* and *Optional* steps. It might be a bit confusing that these are mixed up but this is because the order of installation actually matters. Some mods provide patches for previously installed mods.
 
-# §1 Essential Mods 
+# §1 Before we begin
 
-## Step 1.1: Before we begin (Essential)
 Before we start installing mods we need to create an account and install some required software.
 
 * [Register on Nexus](https://www.nexusmods.com/signup) - Most mods in this guide will be downloaded from Nexus. Nexus Mods is a site which allows users to upload and download "mods" (modifications) for computer games like Morrowind. In order to do this you have to create account. Click on the *REGISTER NOW* button to start your registration. The next screen will ask you to select a paid membership. **DON'T BE FOOLED BY THIS!** Just go to the bottom and select *Create Account* without selecting any membership. The rest is self-explanatory. [Here is a short video guide](https://youtu.be/ZoS87E5_rn0?t=15).
@@ -33,7 +32,7 @@ Before we start installing mods we need to create an account and install some re
 * [Microsoft Visual C++ 2010 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=5555) - This is another requirement for third-party software later in this guide.
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture.*
 
-## Step 1.2: Propper Game Installation (Essential)
+## A Propper Game Installation
 - Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
      - *Steam users can follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path to a non-Program Files location. edit libraryfolders.vdf if want add second library on same partition
 current steam client limited to 1 library per partition 
@@ -50,11 +49,13 @@ LeFemmArmor.esp
 master_index.esp
 Siege at Firemoth.esp
 ```
- 
    - I'm of the opinion that [the official plugins](https://en.uesp.net/wiki/Morrowind:Plugins) are pretty shitty. They are buggy, have balance issues, don't fit the vanilla game, and are nothing like modern day DLC. If you ask me, only two are worth playing really: Bitter Coast Sounds & Master Index. If you want to play with these mods, you could take a look at the [fixed versions in UMOPP](https://www.nexusmods.com/morrowind/mods/43931). I would ignore the **Merged and Compatibility Versions** and go with the **UMOPP 3.0.4** file. This way you can make your own selection.
 
 - Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind CD / Tribunal CD / Bloodmoon CD / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *Note: When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
+
+
+# §2 Installing mods
 
 ## Step 1.3: Morrowind Code Patch (Essential)
 The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to do with scripting alone. MCP reduces crash and save corruption problems. In addition there are many more smaller optional fixes that cover all sorts of areas of the game.
