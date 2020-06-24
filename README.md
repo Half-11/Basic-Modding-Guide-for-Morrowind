@@ -130,14 +130,6 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
       - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a archive folder structure intended for mod managers (called "BAIN installer"). For a simple setup like ours a mod manager is not needed. The only thing we want here are the Meshes and the Textures subfolders (and Lake Fjalding Anti-Suck.ESP). In other words; treat each folder as if you were installing a separate mod.*
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
 
-## Step 2.4: Intelligent Textures (Optional)
-Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
-
-1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
-
-2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-     - *Note: If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder in the same manner.*
-
 ## Step 2.1: Properly Smoothed Meshes (Optional)
 Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
 
@@ -169,6 +161,13 @@ Project Atlas improves performance even further by using different techniques th
 - `10 Glow in the Dahrk Patch - Interior Sunrays` (only when you did decide to install Glow in the Dahrk above)
 - `30 Redware - Smoothed` (only when you did decide to install Properly Smoothed Meshes above)
 - `40 Urns - Smoothed` (only when you did decide to install Properly Smoothed Meshes above)
+
+## Step 2.4: Intelligent Textures (Optional)
+Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+
+1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
+
+2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
