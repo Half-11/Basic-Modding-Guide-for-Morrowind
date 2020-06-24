@@ -167,7 +167,9 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 
 1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
 
-2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
+2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders into your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
+
+3. For the current 2.1b version you will need a hotfix [found here](https://www.mediafire.com/file/impju2r934eqkkt/Intelligent_Textures_Ashlander_Hotfix_v2.zip/file). Extract its Texture folder into your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
 ## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
