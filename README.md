@@ -178,7 +178,7 @@ All of the following mods are optional. Each can be skipped based on personal pr
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
 
 1. [Download Graphic Herbalism MWSE - OpenMW](https://www.nexusmods.com/morrowind/mods/46599)
-     - *Note: We will only need the Main File.*
+     - *Note: We will only need the Main File (ingnore the Update files).*
      - *Note: [Happy Harvesting](https://www.nexusmods.com/morrowind/mods/45627) does the same thing without the visual part. Purist players might prefer this mod instead. If you consider yourself a filthy purist, you can install Happy Harvesting and skip to Step 2.7: Weapon Sheathing.*
 
 2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
