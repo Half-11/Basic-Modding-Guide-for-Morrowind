@@ -51,7 +51,7 @@ Siege at Firemoth.esp
 ```
    - I'm of the opinion that [the official plugins](https://en.uesp.net/wiki/Morrowind:Plugins) are pretty shitty. They are buggy, have balance issues, don't fit the vanilla game, and are nothing like modern day DLC. If you ask me, only two are worth playing really: Bitter Coast Sounds & Master Index. If you want to play with these mods, you could take a look at the [fixed versions in UMOPP](https://www.nexusmods.com/morrowind/mods/43931). I would ignore the **Merged and Compatibility Versions** and go with the **UMOPP 3.0.4** file. This way you can make your own selection.
 
-- Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind CD ==> Tribunal CD ==> Bloodmoon CD ==> [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
+- Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind CD -> Tribunal CD -> Bloodmoon CD -> [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *Note: When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
 
 
