@@ -13,7 +13,7 @@ This guide is made up of three parts:
 2) The second (optional) part are some more mods to "polish" the game into a vanilla+ experience (10 extra mods).
 3) The third and last part covers how to set up third party tool MGE XE.
 
-Mods are labeled either *Essential* or *Optional*. If all you want are bug fixes and performance improvements, you can skip the optional mods and go with the ones that are labeled essential. However, if you want to enhance the games aesthetics and gameplay with a few more mods, you can install the optional mods for a vanilla+ installation. Each of these can be skipped based on personal preference.
+Mods are labeled either *Essential* or *Optional*. If all you want are bug fixes and performance improvements, you can skip the optional mods. However, if you want to enhance the games aesthetics and gameplay with a few more mods, you can install the optional mods for a vanilla+ installation. Each of these can be skipped based on personal preference.
 
 *Full disclosure: I'm the author of both Patch for Purists and Expansion Delay which are recommended in this guide.*
 
