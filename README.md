@@ -77,6 +77,23 @@ We need to select two other patches under the *Mod specific* tab select to ensur
 
 6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
+## Step 1.6 MGE XE (Essential)
+MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more. Even if you don't plan on using these, it is recommended to install MGE XE for its added stability and the ability to use MWSE mods.
+
+1. Run the game once into the main menu and exit, before installing MGE XE.
+
+2. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
+     - *Note: Download the ***MGE XE Manual Install*** (skip on the MGE XE Installer).*
+
+3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it; NOT Morrowind\Data Files). When asked to overwrite files, click *Yes*.
+
+4. We now want to run the ***MWSE-Update.exe*** we just copied inside the Morrowind root folder.
+     - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use other MWSE mods.*
+
+5. [Download EdgeAA shader for MGE XE](https://cdn.discordapp.com/attachments/381217735306248192/609149467962376224/EdgeAA.zip) (direct link)
+
+6. Extract the zip to your ```Morrowind``` root folder. We need this shader later on in the guide.
+
 ## Step 1.4: Patch for Purists (Essential)
 Patch for Purists is an unofficial fan patch for Morrowind. It  takes a more conservative approach about what it considers a "bug" than the Morrowind Patch Project you might know from the past. PfP covers pretty much every aspect of the game within the limitations of the Construction Set (e.g broken quests, floating objects, lots of broken dialogue etc).
 
@@ -111,46 +128,22 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
      - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
 
-## Step 1.6 MGE XE (Essential)
-MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more. Even if you don't plan on using these, it is recommended to install MGE XE for its added stability and the ability to use MWSE mods.
+## Step 2.4: Intelligent Textures (Optional)
+Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
-1. Run the game once into the main menu and exit, before installing MGE XE.
+1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
 
-2. [Download MGE XE](https://www.nexusmods.com/morrowind/mods/41102)
-     - *Note: Download the ***MGE XE Manual Install*** (skip on the MGE XE Installer).*
+2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+     - *Note: If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder in the same manner.*
 
-3. Extract the zip to your ```Morrowind``` root folder (the folder with Morrowind.exe in it; NOT Morrowind\Data Files). When asked to overwrite files, click *Yes*.
+## Step 2.5: Remiros' Groundcover (Optional)
+Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
 
-4. We now want to run the ***MWSE-Update.exe*** we just copied inside the Morrowind root folder.
-     - *Note: Doing this will ensure we are running the latest nightly build of MWSE 2.1 (Morrowind Script Extender Lua) which we need for some of the mods later on in this guide. MWSE adds new functionality to the scripting language of Morrowind, allowing for new features to be implemented into the game. MWSE 2.1 is actively maintained, so it is recommended to do this now and then, especially when you use other MWSE mods.*
+1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+     - *Note: We want the non-OpenMW file on top of the download page (not ***Remiros' Groundcover - OpenMW***).*
 
-5. [Download EdgeAA shader for MGE XE](https://cdn.discordapp.com/attachments/381217735306248192/609149467962376224/EdgeAA.zip) (direct link)
-
-6. Extract the zip to your ```Morrowind``` root folder. We need this shader later on in the guide.
-
-## Step 1.7 Some minor essential mods (Essential)
-Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
-
-1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
-
-2. [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
-
-3. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
-
-4. [Fix Those Bastard Rope Fences](https://www.nexusmods.com/morrowind/mods/45741)
-
-
-# §2 Optional mods for a Vanilla+ installation
-If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods, read on.
-
-All of the following mods are optional. Each can be skipped based on personal preference.
-
-## Step 2.1: Properly Smoothed Meshes (Optional)
-Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
-
-1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
-
-2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+     - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
 
 ## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
@@ -176,22 +169,17 @@ Project Atlas improves performance even further by using different techniques th
      - ***30 Redware - Smoothed** and **40 Urns - Smoothed** can be installed if you chose to install Properly Smoothed Meshes earlier.*
      - *The **Glow in the Dahrk (- Interior Sunrays)** and **[Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321)** folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them BEFORE installing Project Atlas.*
 
-## Step 2.4: Intelligent Textures (Optional)
-Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
+# §2 Optional mods for a Vanilla+ installation
+If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods, read on.
 
-1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
+All of the following mods are optional. Each can be skipped based on personal preference.
 
-2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-     - *Note: If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder in the same manner.*
+## Step 2.1: Properly Smoothed Meshes (Optional)
+Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
 
-## Step 2.5: Remiros' Groundcover (Optional)
-Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
+1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
-1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
-     - *Note: We want the non-OpenMW file on top of the download page (not ***Remiros' Groundcover - OpenMW***).*
-
-2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-     - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
+2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
@@ -207,6 +195,17 @@ This mod makes it so that you pick plants just by activating them instead of ope
 4. [Download Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864)
 
 5. Extract the zip to your ***Morrowind/Data Files*** directory.
+
+## Step 1.7 Some minor essential mods (Essential)
+Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
+
+1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
+
+2. [Expeditious Exit](https://www.nexusmods.com/morrowind/mods/45634)
+
+3. [Expansion Delay](https://www.nexusmods.com/morrowind/mods/47588)
+
+4. [Fix Those Bastard Rope Fences](https://www.nexusmods.com/morrowind/mods/45741)
 
 ## Step 2.8 Some minor mods (Optional)
 Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
