@@ -15,6 +15,8 @@ This guide is made up of three parts:
 
 *Full disclosure: I'm the author of both Patch for Purists and Expansion Delay which are recommended in this guide.*
 
+There are *Essential* and *Optional* steps. It might be a bit confusing that these are mixed up but this is because the order of installation actually matters. Some mods provide patches for previously installed mods.
+
 # §1 Essential Mods 
 
 ## Step 1.1: Before we begin (Essential)
