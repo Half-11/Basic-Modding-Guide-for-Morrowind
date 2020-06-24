@@ -137,6 +137,13 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
      - *Note: If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder in the same manner.*
 
+## Step 2.1: Properly Smoothed Meshes (Optional)
+Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
+
+1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
+
+2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
 ## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
 
@@ -144,8 +151,8 @@ Glow in the Dahrk makes windows glow at night.
 
 2. Yet again, we're dealing with BAIN archive folder structures. Extract the contents of the following folders to your ***Morrowind/Data Files*** directory:
 - `00 Core`
-- `01 Hi Res Window Texture Replacer (skip if you decided not to use Intelligent Textures above)`
 - `02 Interior Sunrays`
+- `03 Nord Glass Windows`
 - `03 Nord Glass Windows Interior Sunrays`
      - *Note: **05 Raven Rock Glass Windows Interior Sunrays** can be installed if you're absolutly sure you don't use any mod that drastically changes Solstheims position (e.g. Anthology Solstheim, Vvardenfell and Solstheim Worldspace Remaster).
      
@@ -155,23 +162,17 @@ Project Atlas improves performance even further by using different techniques th
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
      - *Warning: This mod is not recommended if you play the game on a very old GPU. The so-called texture atlases are quite large and might actually hurt your performance in this case. Semi-modern onboard Intel/AMD GPUs should be okay though.*
 
-2. Yet again, we're dealing with BAIN archive folder structures. Extract the *Meshes* and *Textures* folders inside the *00 Core* folder to your ***Morrowind/Data Files*** directory.
-
-3. You'll find some more optional modules in the archive:
-     - ***30 Redware - Smoothed** and **40 Urns - Smoothed** can be installed if you chose to install Properly Smoothed Meshes earlier.*
-     - *The **Glow in the Dahrk (- Interior Sunrays)** and **[Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321)** folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them BEFORE installing Project Atlas.*
+2. Yet again, we're dealing with BAIN archive folder structures. Extract the contents of the following folders to your ***Morrowind/Data Files*** directory.
+- `00 Core`
+- `10 Glow in the Dahrk Patch` (only if you did install Glow in the Dahrk above)
+- `10 Glow in the Dahrk Patch - Interior Sunrays` (only when you did decide to install Glow in the Dahrk above)
+- `30 Redware - Smoothed` (only when you did decide to install Properly Smoothed Meshes above)
+- `40 Urns - Smoothed` (only when you did decide to install Properly Smoothed Meshes above)
 
 # §2 Optional mods for a Vanilla+ installation
 If all you want are bug fixes and performance improvements, you can skip to **§3 Setting up MGE XE** below. However, if you want to enhance the games aesthetics and gameplay with a few more mods, read on.
 
 All of the following mods are optional. Each can be skipped based on personal preference.
-
-## Step 2.1: Properly Smoothed Meshes (Optional)
-Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
-
-1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
-
-2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
 ## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
