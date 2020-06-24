@@ -67,7 +67,7 @@ The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to d
 
 3. [Download MCP beta](https://www.nexusmods.com/morrowind/mods/26348/?tab=files)
 
-4. Again, extract the zip to your ***/Morrowind*** root directory. When asked to overwrite the file, click *Yes*.
+4. Again, extract the zip to your ***/Morrowind*** root directory. When asked to overwrite files, click *Yes*.
 
 5. Start MCP by running the *Morrowind Code Patch.exe* executable. You will see categories and patches listed on the left. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name.
 The defealt selection is pretty good and recommended for new players. We want to add a few patches however. Under the *Beta* tab select the following:
@@ -102,7 +102,7 @@ Patch for Purists is an unofficial fan patch for Morrowind. It  takes a more con
 
 1. [Download Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
-2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
 ## Step 2.7: Weapon Sheathing (Optional)
 Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
@@ -110,7 +110,7 @@ Weapon Sheathing makes unreadied weapons and shields appear on the character's h
 1. [Download Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
      - *Note: We want the ***WeaponSheathing1.6-MWSE*** file (not ***WeaponSheathing1.6-OpenMW***).*
 
-2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
 3. [Download Bloodmoon Weapon Sheaths](https://cdn.discordapp.com/attachments/210894929868619778/684485204659798095/Bloodmoon_Weapon_Sheaths.7z) (direct link). This will add weapon sheaths to Bloodmoon until Greatness7 gets of his lazy ass to update the mod.
 
@@ -122,11 +122,11 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 1. [Download Correct UV Rocks](http://mw.modhistory.com/download-56-12003)
      - *Note: Every now and then the servers of Morrowind Modding History are down. If that is the case, a mirror can be found [here](https://web.archive.org/web/20161103112615/mw.modhistory.com/download-56-12003).*
 
-2. Extract the *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. Extract the *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
 3. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 
-4. Extract all the *Meshes* and *Textures* folders and *Lake Fjalding Anti-Suck.esp* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+4. Extract all the *Meshes* and *Textures* folders and *Lake Fjalding Anti-Suck.esp* to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
       - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a archive folder structure intended for mod managers (called "BAIN installer"). For a simple setup like ours a mod manager is not needed. The only thing we want here are the Meshes and the Textures subfolders (and Lake Fjalding Anti-Suck.ESP). In other words; treat each folder as if you were installing a separate mod.*
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
 
@@ -135,7 +135,7 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
-2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
 ## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
@@ -167,7 +167,7 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 
 1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
 
-2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
 ## Step 2.6: Graphic Herbalism - MWSE and OpenMW Edition
 This mod makes it so that you pick plants just by activating them instead of opening them like a container. When harvesting, part of the plant you pick disappears.
@@ -176,9 +176,9 @@ This mod makes it so that you pick plants just by activating them instead of ope
      - *Note: We will only need the Main File (ingnore the Update files).*
      - *Note: [Happy Harvesting](https://www.nexusmods.com/morrowind/mods/45627) does the same thing without the visual part. Purist players might prefer this mod instead. If you consider yourself a filthy purist, you can install Happy Harvesting and skip to the next mod.*
 
-2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the zip file we just downloaded you'll find two folders ***00 Core + Vanilla Meshes*** and ***01 Optional - Smoothed Meshes***. Start with extracting the content of the ***00 Core + Vanilla Meshes*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
-3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. Personally, I don't like the looks of the smoother models for flora and ignore this folder. If you  like them then you can repeat the process from the previous step for this folder.
+3. The second folder, ***01 Optional - Smoothed Meshes***, is optional. Personally, I don't like the looks of the smoother models for flora and ignore this folder. If you do like them  however, you can repeat the process from the previous step for this folder.
 
 4. [Download Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864)
 
@@ -190,11 +190,11 @@ Remiros' Groundcover is one of the best (if not the best) grass and groundcover 
 1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
      - *Note: We want the non-OpenMW file on top of the download page (not ***Remiros' Groundcover - OpenMW***).*
 
-2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
      - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
 
 ## Step 1.7 Some minor essential mods (Essential)
-Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
+Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
 
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
 
@@ -205,7 +205,7 @@ Finally, there are a few minor mods that I consider essential. Again, extract th
 4. [Fix Those Bastard Rope Fences](https://www.nexusmods.com/morrowind/mods/45741)
 
 ## Step 2.8 Some minor mods (Optional)
-Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
+Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
 
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
 
