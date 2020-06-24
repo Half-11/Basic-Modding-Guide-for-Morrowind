@@ -17,7 +17,7 @@ This guide is made up of three parts:
 
 # §1 Essential Mods 
 
-## Step 1.1: Before we begin
+## Step 1.1: Before we begin (Essential)
 Before we start installing mods we need to create an account and install some required software.
 
 * [Register on Nexus](https://www.nexusmods.com/signup) - Most mods in this guide will be downloaded from Nexus. Nexus Mods is a site which allows users to upload and download "mods" (modifications) for computer games like Morrowind. In order to do this you have to create account. Click on the *REGISTER NOW* button to start your registration. The next screen will ask you to select a paid membership. **DON'T BE FOOLED BY THIS!** Just go to the bottom and select *Create Account* without selecting any membership. The rest is self-explanatory. [Here is a short video guide](https://youtu.be/ZoS87E5_rn0?t=15).
@@ -31,7 +31,7 @@ Before we start installing mods we need to create an account and install some re
 * [Microsoft Visual C++ 2010 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=5555) - This is another requirement for third-party software later in this guide.
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture.*
 
-## Step 1.2: Propper Game Installation
+## Step 1.2: Propper Game Installation (Essential)
 - Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
      - *Steam users can follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path to a non-Program Files location. edit libraryfolders.vdf if want add second library on same partition
 current steam client limited to 1 library per partition 
