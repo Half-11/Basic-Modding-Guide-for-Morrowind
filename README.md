@@ -136,15 +136,6 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
      - *Note: If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder in the same manner.*
 
-## Step 2.5: Remiros' Groundcover (Optional)
-Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
-
-1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
-     - *Note: We want the non-OpenMW file on top of the download page (not ***Remiros' Groundcover - OpenMW***).*
-
-2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-     - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
-
 ## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
 
@@ -195,6 +186,15 @@ This mod makes it so that you pick plants just by activating them instead of ope
 4. [Download Graphic Herbalism Lighting](https://www.nexusmods.com/morrowind/mods/47864)
 
 5. Extract the zip to your ***Morrowind/Data Files*** directory.
+
+## Step 2.5: Remiros' Groundcover (Optional)
+Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
+
+1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
+     - *Note: We want the non-OpenMW file on top of the download page (not ***Remiros' Groundcover - OpenMW***).*
+
+2. In the download you'll find a big BAIN archive with all kinds of options. We are only interessed in the contents of the ***00 Core*** folder. Extract its contents to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+     - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
 
 ## Step 1.7 Some minor essential mods (Essential)
 Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
