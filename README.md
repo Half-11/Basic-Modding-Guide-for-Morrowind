@@ -54,7 +54,7 @@ Siege at Firemoth.esp
 - Make sure you are running the latest official patch (v1.6.1820). Digital versions (Steam, GOG, Bethesda Launcher) of the game are up to date. If you are running the CD version, the correct installation order is: Morrowind CD / Tribunal CD / Bloodmoon CD / [Bloodmoon Patch v1.6.1820](https://cdn.bethsoft.com/elderscrolls/morrowind/patches/Bloodmoon_v1.6.1820.exe) (skip Morrowind Patch v1.2.0722 and Tribunal Patch v1.4.1313).
      - *Note: When you are in doubt about the version of your game; this can be found at the bottom left of the main menu in-game.*
 
-## Step 1.3: Morrowind Code Patch
+## Step 1.3: Morrowind Code Patch (Essential)
 The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to do with scripting alone. MCP reduces crash and save corruption problems. In addition there are many more smaller optional fixes that cover all sorts of areas of the game.
 
 1. [Download Morrowind Code Patch](https://www.nexusmods.com/morrowind/mods/19510)
@@ -77,14 +77,26 @@ We need to select two other patches under the *Mod specific* tab select to ensur
 
 6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
 
-## Step 1.4: Patch for Purists
+## Step 1.4: Patch for Purists (Essential)
 Patch for Purists is an unofficial fan patch for Morrowind. It  takes a more conservative approach about what it considers a "bug" than the Morrowind Patch Project you might know from the past. PfP covers pretty much every aspect of the game within the limitations of the Construction Set (e.g broken quests, floating objects, lots of broken dialogue etc).
 
 1. [Download Patch for Purists](https://www.nexusmods.com/morrowind/mods/45096)
 
 2. Extract the zip to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
-## Step 1.5: Morrowind Optimization Patch
+## Step 2.7: Weapon Sheathing (Optional)
+Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
+
+1. [Download Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
+     - *Note: We want the ***WeaponSheathing1.6-MWSE*** file (not ***WeaponSheathing1.6-OpenMW***).*
+
+2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
+
+3. [Download Bloodmoon Weapon Sheaths](https://cdn.discordapp.com/attachments/210894929868619778/684485204659798095/Bloodmoon_Weapon_Sheaths.7z) (direct link). This will add weapon sheaths to Bloodmoon until Greatness7 gets of his lazy ass to update his mod.
+
+4. Extract the zip to your ***Morrowind/Data Files*** directory.
+
+## Step 1.5: Morrowind Optimization Patch (Essential)
 Morrowind Optimization Patch (MOP) does two things: it noticeably improves performance and fixes mesh errors. 
 
 1. [Download Correct UV Rocks](http://mw.modhistory.com/download-56-12003)
@@ -95,11 +107,11 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 3. [Download Morrowind Optimization Patch](https://www.nexusmods.com/morrowind/mods/45384)
 
 4. Extract the *Meshes* and *Textures* folders and *Lake Fjalding Anti-Suck.esp* to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-     - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a archive folder structure intended for mod managers (called "BAIN installer"). For a simple setup like ours a mod manager is not needed. The only thing we want here are the Meshes and Textures subfolders.*
-     - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
+      - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a archive folder structure intended for mod managers (called "BAIN installer"). For a simple setup like ours a mod manager is not needed. The only thing we want here are the Meshes and Textures subfolders.*
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
+     - *Copy and paste the two Meshes and the Textures folders and the Lake Fjalding Anti-Suck.ESP file into your Morrowind\Data Files folder. In other words; treat each folder as if you were installing a separate mod.*
 
-## Step 1.6 MGE XE
+## Step 1.6 MGE XE (Essential)
 MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more. Even if you don't plan on using these, it is recommended to install MGE XE for its added stability and the ability to use MWSE mods.
 
 1. Run the game once into the main menu and exit, before installing MGE XE.
@@ -116,7 +128,7 @@ MGE XE is an utility that allows the game to render distant land, shadows, shade
 
 6. Extract the zip to your ```Morrowind``` root folder. We need this shader later on in the guide.
 
-## Step 1.7 Some minor essential mods
+## Step 1.7 Some minor essential mods (Essential)
 Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
@@ -133,14 +145,14 @@ If all you want are bug fixes and performance improvements, you can skip to **§
 
 All of the following mods are optional. Each can be skipped based on personal preference.
 
-## Step 2.1: Properly Smoothed Meshes
+## Step 2.1: Properly Smoothed Meshes (Optional)
 Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
 2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
 
-## Step 2.2: Glow in the Dahrk
+## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
 
 1. [Download Glow in the Dahrk](https://www.nexusmods.com/morrowind/mods/45886)
@@ -152,7 +164,7 @@ Glow in the Dahrk makes windows glow at night.
 - `03 Nord Glass Windows Interior Sunrays`
      - *Note: **05 Raven Rock Glass Windows Interior Sunrays** can be installed if you're absolutly sure you don't use any mod that drastically changes Solstheims position (e.g. Anthology Solstheim, Vvardenfell and Solstheim Worldspace Remaster).
      
-## Step 2.3: Project Atlas
+## Step 2.3: Project Atlas (Optional)
 Project Atlas improves performance even further by using different techniques than MOP. Using them together will get you quite the FPS gain.
 
 1. [Download Project Atlas](https://www.nexusmods.com/morrowind/mods/45399)
@@ -164,7 +176,7 @@ Project Atlas improves performance even further by using different techniques th
      - ***30 Redware - Smoothed** and **40 Urns - Smoothed** can be installed if you chose to install Properly Smoothed Meshes earlier.*
      - *The **Glow in the Dahrk (- Interior Sunrays)** and **[Glowing Bitter Coast](http://mw.modhistory.com/download-44-14321)** folders should only be used when the corresponding mods are installed. If you want to use these mods, make sure to install them BEFORE installing Project Atlas.*
 
-## Step 2.4: Intelligent Textures
+## Step 2.4: Intelligent Textures (Optional)
 Intelligent Textures replaces almost all textures in the vanilla game and its expansions with high resolution AI upscales.
 
 1. [Download Intelligent Textures](https://www.nexusmods.com/morrowind/mods/47469)
@@ -172,7 +184,7 @@ Intelligent Textures replaces almost all textures in the vanilla game and its ex
 2. Extract the contents of both the ***00 Core*** and the ***01 Atlas Textures*** folders to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
      - *Note: If you chose to install Glow in the Dahrk (Step 2.2) you can now install its ***Hi Res Window Texture Replacer*** folder in the same manner.*
 
-## Step 2.5: Remiros' Groundcover
+## Step 2.5: Remiros' Groundcover (Optional)
 Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
 
 1. [Download Remiros' Groundcover](https://www.nexusmods.com/morrowind/mods/46733)
@@ -196,19 +208,7 @@ This mod makes it so that you pick plants just by activating them instead of ope
 
 5. Extract the zip to your ***Morrowind/Data Files*** directory.
 
-## Step 2.7: Weapon Sheathing
-Weapon Sheathing makes unreadied weapons and shields appear on the character's hip or back (incl. quivers).
-
-1. [Download Weapon Sheathing](https://www.nexusmods.com/morrowind/mods/46069)
-     - *Note: We want the ***WeaponSheathing1.6-MWSE*** file (not ***WeaponSheathing1.6-OpenMW***).*
-
-2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click *Yes*.
-
-3. [Download Bloodmoon Weapon Sheaths](https://cdn.discordapp.com/attachments/210894929868619778/684485204659798095/Bloodmoon_Weapon_Sheaths.7z) (direct link). This will add weapon sheaths to Bloodmoon until Greatness7 gets of his lazy ass to update his mod.
-
-4. Extract the zip to your ***Morrowind/Data Files*** directory.
-
-## Step 2.8 Some minor mods
+## Step 2.8 Some minor mods (Optional)
 Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite the file, click Yes.
 
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
