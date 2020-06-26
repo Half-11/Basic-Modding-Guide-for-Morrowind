@@ -241,7 +241,7 @@ Underwater Effects
 Underwater Interior Effects
 Sunshafts
 EdgeAA
-mge_fog-linked_dof (if you did install this one)
+mge_fog-linked_dof (if you don't want distance blur, you can skip this one)
 Bloom Soft (people who don't like bloom can skip this one)
 ```
    Hit *Save*.
