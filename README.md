@@ -241,8 +241,8 @@ Underwater Effects
 Underwater Interior Effects
 Sunshafts
 EdgeAA
-Bloom Soft (people who don't like bloom can skip this one)
 mge_fog-linked_dof (if you did install this one)
+Bloom Soft (people who don't like bloom can skip this one)
 ```
    Hit *Save*.
 
