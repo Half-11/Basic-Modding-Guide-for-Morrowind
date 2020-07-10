@@ -130,13 +130,6 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
       - *Note: When looking at the contents of the zip you might notice unfamiliar folder names (00 Core, 01 Clean Alpha Textures, 02 Lake Fjalding Anti-Suck). This is because MOP has a archive folder structure intended for mod managers (called "BAIN installer"). For a simple setup like ours a mod manager is not needed. The only thing we want here are the Meshes and the Textures subfolders (and Lake Fjalding Anti-Suck.ESP). In other words; treat each folder as if you were installing a separate mod.*
      - *Regarding BAIN installers: these are often used to deliver optional patches for other mods. A mistake that is often made by people who are new to modding Morrowind, is installing these patches for mods that they have not actually installed. This will result in error messages because the game is missing the files from the mod for which the patch in question was intended. When you are not sure whether the optional modules are patches or extras for the mod itself, please read the ReadMe carefully.*
 
-## Step 2.1: Properly Smoothed Meshes (Optional)
-Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
-
-1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
-
-2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
-
 ## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
 
@@ -339,3 +332,12 @@ https://www.tamriel-rebuilt.org/recommended-mods
 
 Merlord's Immersive Modlist
 https://docs.google.com/spreadsheets/d/1euy-S5Y8SFHG6lLzgbo2_ck5KvslFL92bHUjaCJz7_c/edit?usp=sharing
+
+
+
+## Step 2.1: Properly Smoothed Meshes (Optional)
+Here, you have to make a choice whenever you care about smoother models. If you don't, you can skip this step. Properly Smoothed Meshes offers more detailed models in a vanilla fashion.
+
+1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
+
+2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
