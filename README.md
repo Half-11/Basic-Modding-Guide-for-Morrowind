@@ -136,7 +136,7 @@ Morrowind Optimization Patch (MOP) does two things: it noticeably improves perfo
 ## Step 2.2: Glow in the Dahrk (Optional)
 Glow in the Dahrk makes windows glow at night.
 
-1. Instead of using **True lights and Darkness** (that GitD recommends) we are going to download [Let There Be Darkness - Lua Lighting Overhaul](https://www.nexusmods.com/morrowind/mods/45886).
+1. Instead of using **True lights and Darkness** (which GitD recommends) we are going to download [Let There Be Darkness - Lua Lighting Overhaul](https://www.nexusmods.com/morrowind/mods/45886) as a prerequirement for Glow in the Dahrk.
 
 2. Extract the *MWSE* folder to your ***Morrowind/Data Files*** directory.
 
