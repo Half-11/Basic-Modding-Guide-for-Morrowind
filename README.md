@@ -348,3 +348,16 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 1. [Download Properly Smoothed Meshes](https://www.nexusmods.com/morrowind/mods/46747)
 
 2. In the zip file we just downloaded you'll find multiple BAIN archive folders. We are only interested in ***00 Core***. Extract its *Meshes* folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
+
+
+The MCP option requires some .ini edits:
+
+    [Weather Rain]
+    Rain Diameter=600 -> Change this to Rain Diameter=1200
+    Max Raindrops=450 -> Change this to Max Raindrops=1500
+    [Weather Thunderstorm]
+    Rain Diameter=600 -> Change this to Rain Diameter=1200
+    Max Raindrops=650 -> Change this to Max Raindrops=3000
+    [Weather Snow]
+    Snow Diameter=800 -> Change this to Snow Diameter=1600
+    Max Snowflakes=750 -> Change this to Max Snowflakes=1500
