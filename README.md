@@ -361,14 +361,14 @@ The MCP option requires some .ini edits:
      Exterior Cell Buffer=0
      Screen Shot Enable=1
 
-    [Weather Rain]
-    Rain Diameter=1200
-    Max Raindrops=1500
+     [Weather Rain]
+     Rain Diameter=1200
+     Max Raindrops=1500
     
-    [Weather Thunderstorm]
-    Rain Diameter=1200
-    Max Raindrops=3000
+     [Weather Thunderstorm]
+     Rain Diameter=1200
+     Max Raindrops=3000
     
-    [Weather Snow]
-    Snow Diameter=1600
-    Max Snowflakes=1500
+     [Weather Snow]
+     Snow Diameter=1600
+     Max Snowflakes=1500
