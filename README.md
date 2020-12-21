@@ -364,9 +364,11 @@ The MCP option requires some .ini edits:
     [Weather Rain]
     Rain Diameter=1200
     Max Raindrops=1500
+    
     [Weather Thunderstorm]
     Rain Diameter=1200
     Max Raindrops=3000
+    
     [Weather Snow]
     Snow Diameter=1600
     Max Snowflakes=1500
