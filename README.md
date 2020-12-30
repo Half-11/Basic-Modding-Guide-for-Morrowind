@@ -77,8 +77,9 @@ The defealt selection is pretty good and recommended for new players. We want to
 - `Sea water sound falloff fix`
 - `Actor collision box fix`
 
-We need to select two other patches under the *Mod specific* tab select to ensure functionality for Patch for Purists:
+We need to select three other patches under the *Mod specific* tab select to ensure functionality for Patch for Purists:
 - `Separate axe inventory sounds`
+- `'Talked to PC'extension`
 - `Creature voiceover enable`
 
 6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
