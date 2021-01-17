@@ -34,6 +34,7 @@ Before we start installing mods we need to create an account and install some re
     
     Microsoft Visual C++ Redistributable for Visual Studio 2015
     https://www.microsoft.com/en-us/download/details.aspx?id=48145
+    https://aka.ms/vs/15/release/VC_redist.x86.exe
 
 ## A Propper Game Installation
 - Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
