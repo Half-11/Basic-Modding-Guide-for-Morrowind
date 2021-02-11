@@ -26,7 +26,7 @@ Before we start installing mods we need to create an account and install some re
 * [7-Zip](https://www.7-zip.org/download.html) - If you have no file archiver installed on your computer I would recommened installing one. All mods on Nexus will be downloaded as one archive file (.7z/.rar/.zip files). 7-Zip is one of the best-known utilities for unpacking such archives into their orginal state.
      - *Note: If you have never used 7-Zip before I would recommend to watch [this short tutorial](https://www.youtube.com/watch?v=WCxbEQo3Zhg) on how to extract files with it.*
 
-* [DirectX 9.0c June 2010](https://web.archive.org/web/20201216110836/https://download.microsoft.com/download/8/4/A/84A35BF1-DAFE-4AE8-82AF-AD2AE20B6B14/directx_Jun2010_redist.exe) - This is a required update for third-party software we are going to use. This won't conflict with exisiting installations of DirectX (10+).
+* [DirectX 9.0c June 2010](https://www.guru3d.com/files-get/directx-end-user-runtimes-(june-2010),8.html) - This is a required update for third-party software we are going to use. This won't conflict with exisiting installations of DirectX (10+).
 
      - *Note: Uncheck the **Install Bing Bar** thingy during installation. It's just bloatware.*
 
