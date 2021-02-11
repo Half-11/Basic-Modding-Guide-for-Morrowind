@@ -34,7 +34,7 @@ Before we start installing mods we need to create an account and install some re
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture.*
     
 * [Microsoft Visual C++ Redistributable for Visual Studio 2015-2019](https://aka.ms/vs/16/release/vc_redist.x86.exe) (direct link) - Another library just to make sure we got all components that are required to run our third-party applications.
-    - *Note: If you don't trust the direct link you can [download the vc_redist.x86.exe file here](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).*
+    - *Note: If you don't trust the direct link you can download the [vc_redist.x86.exe file here](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).*
     
 
 
