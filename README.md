@@ -33,9 +33,10 @@ Before we start installing mods we need to create an account and install some re
 * [Microsoft Visual C++ 2010 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=5555) - This is another requirement for third-party software later in this guide.
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture.*
     
-    Microsoft Visual C++ Redistributable for Visual Studio 2015
-    https://www.microsoft.com/en-us/download/details.aspx?id=48145
-    https://aka.ms/vs/15/release/VC_redist.x86.exe
+* [Microsoft Visual C++ Redistributable for Visual Studio 2015-2019](https://aka.ms/vs/16/release/vc_redist.x86.exe) (direct link)
+    - *Note: If you don't trust the direct link you can [download the vc_redist.x86.exe file here](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0).*
+    
+
 
 ## A Propper Game Installation
 - Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
