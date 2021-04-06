@@ -19,11 +19,11 @@ Mods are labeled either *Essential* or *Optional*. If all you want are bug fixes
 
 # §1 Before we begin
 
-Before we start installing mods we need to create an account and install some required software.
+Before we start installing mods we need to create an account on Nexus and install some required software.
 
-* [Register on Nexus](https://www.nexusmods.com/signup) - Most mods in this guide will be downloaded from Nexus. Nexus Mods is a site which allows users to upload and download "mods" (modifications) for computer games like Morrowind. In order to do this you have to create account. Click on the *REGISTER NOW* button to start your registration. The next screen will ask you to select a paid membership. **DON'T BE FOOLED BY THIS!** Just go to the bottom and select *Create Account* without selecting any membership. The rest is self-explanatory. [Here is a short video guide](https://youtu.be/ZoS87E5_rn0?t=15).
+* [Register on Nexus](https://users.nexusmods.com/register) - Most mods in this guide will be downloaded from Nexus. Nexus Mods is a site which allows users to upload and download "mods" (modifications) for computer games like Morrowind. In order to do this you have to create account. The process is a pretty straight-forward and self-explanatory 
 
-* [7-Zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/download.html?L=0) - If you have no file archiver installed on your computer I would recommened installing one. All mods on Nexus will be downloaded as one archive file (.7z/.rar/.zip files). 7-Zip is one of the best-known utilities for unpacking such archives into their orginal state.
+* [7-Zip](https://www.7-zip.org/download.html) or the old time favorite [WinRAR](https://www.win-rar.com/download.html?L=0) - If you have no file archiver installed on your computer I would recommened installing one. All mods on Nexus will be downloaded as one archive file (.7z/.rar/.zip files). 7-Zip is one of the best-known utilities for unpacking such archives into their orginal state.
      - *Note: If you have never used 7-Zip before I would recommend to watch [this short tutorial](https://www.youtube.com/watch?v=WCxbEQo3Zhg) on how to extract files with it.*
 
 * [DirectX 9.0c June 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) - This is a required update for third-party software we are going to use. This won't conflict with exisiting installations of DirectX (10+).
