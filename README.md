@@ -40,7 +40,7 @@ Before we start installing mods we need to create an account and install some re
 
 
 ## A Propper Game Installation
-- Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind.
+- Don't install the game in its default folder (C:\Program Files). This folder is monitored by the security system, which was unknown at the time of Morrowinds design. The default installation location can lead to crashes, error messages and mods not appearing. Instead, it is strongly recommended to create a new folder on your hard drive, such as: C:\Games\Morrowind. If you have already installed the game in Program Files, I would advise you to uninstall the game and reinstall it in another folder. 
      - *Steam users can follow [this short tutorial](https://www.youtube.com/watch?v=hV1UbXLTsy0) to change the games installation path to a non-Program Files location. edit libraryfolders.vdf if want add second library on same partition
 current steam client limited to 1 library per partition 
 https://support.steampowered.com/kb_article.php?ref=7418-YUBN-8129
