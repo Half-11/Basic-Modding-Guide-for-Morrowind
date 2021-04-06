@@ -77,17 +77,18 @@ The Morrowind Code Patch (MCP) fixes bugs and problems that aren't possible to d
 
 4. Again, extract the zip to your ***/Morrowind*** root directory. When asked to overwrite files, click *Yes*.
 
-5. Start MCP by running the *Morrowind Code Patch.exe* executable. You will see categories and patches listed on the left. The program will explain what each patch does, click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name.
-The defealt selection is pretty good and recommended for new players. We want to add a few patches however. Under the *Beta* tab select the following:
+5. Start MCP by running the *Morrowind Code Patch.exe* executable. You will see categories and patches listed on the left. The program will explain what each patch does. Click on the patch name to display the explanation on the right. Each patch can be turned on and off by clicking the checkbox to the left of the name.
+The defealt selection is pretty good and recommended for most players. We want to add a few patches however. Under the *Beta* tab select the following:
 - `Sea water sound falloff fix`
 - `Actor collision box fix`
 
-We need to select three other patches under the *Mod specific* tab select to ensure functionality for Patch for Purists:
+We also need to select three other patches under the *Mod specific* tab to ensure functionality for Patch for Purists:
 - `Separate axe inventory sounds`
 - `'Talked to PC'extension`
 - `Creature voiceover enable`
 
-6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated (You can do this at any time and it doesn't matter if you patched your Morrowind.exe before).
+6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated.
+     - *Note: You can do this at any time and it doesn't matter if you patched your Morrowind.exe before.*
 
 ## Step 1.6 MGE XE (Essential)
 MGE XE is an utility that allows the game to render distant land, shadows, shaders, atmospheric effects and much more. Even if you don't plan on using these, it is recommended to install MGE XE for its added stability and the ability to use MWSE mods.
