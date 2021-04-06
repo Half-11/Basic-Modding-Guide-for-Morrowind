@@ -193,6 +193,10 @@ This mod makes it so that you pick plants just by activating them instead of ope
 
 5. Extract the zip to your ***Morrowind/Data Files*** directory.
 
+6. [Download Graphic Herbalism- Ash Yam Collision Switch](https://www.nexusmods.com/morrowind/mods/49154)
+
+7. Again, extract the zip to your ***Morrowind/Data Files*** directory.
+
 ## Step 2.5: Remiros' Groundcover (Optional)
 Remiros' Groundcover is one of the best (if not the best) grass and groundcover mod for Morrowind.
 
