@@ -26,9 +26,10 @@ Before we start installing mods we need to create an account and install some re
 * [7-Zip](https://www.7-zip.org/download.html) or [WinRAR](https://www.win-rar.com/download.html?L=0) - If you have no file archiver installed on your computer I would recommened installing one. All mods on Nexus will be downloaded as one archive file (.7z/.rar/.zip files). 7-Zip is one of the best-known utilities for unpacking such archives into their orginal state.
      - *Note: If you have never used 7-Zip before I would recommend to watch [this short tutorial](https://www.youtube.com/watch?v=WCxbEQo3Zhg) on how to extract files with it.*
 
-* [DirectX 9.0c June 2010](https://www.guru3d.com/files-get/directx-end-user-runtimes-(june-2010),8.html) - This is a required update for third-party software we are going to use. This won't conflict with exisiting installations of DirectX (10+).
+* [DirectX 9.0c June 2010](https://www.microsoft.com/en-us/download/details.aspx?id=8109) - This is a required update for third-party software we are going to use. This won't conflict with exisiting installations of DirectX (10+).
 
-     - *Note: Uncheck the **Install Bing Bar** thingy during installation. It's just bloatware.*
+     - *Note 1: I like to create a new folder on my desktop for the files to extract to during installation.*
+     - *Note 2: Uncheck the **Install Bing Bar** thingy during installation. It's just bloatware.*
 
 * [Microsoft Visual C++ 2010 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=5555) - This is another requirement for third-party software later in this guide.
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture.*
