@@ -15,7 +15,7 @@ This guide is made up of three parts:
 
 Mods are labeled either *Essential* or *Optional*. If all you want are bug fixes and performance improvements, you can skip the optional mods. However, if you want to enhance the games aesthetics and gameplay with a few more mods, you can install the optional mods for a vanilla+ installation. Each of these can be skipped based on personal preference.
 
-*Full disclosure: I'm the author of both Patch for Purists and Expansion Delay which are recommended in this guide.*
+*Full disclosure: I'm the author of both Patch for Purists and some of the mods which are recommended in this guide.*
 
 # §1 Before we begin
 
