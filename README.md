@@ -226,6 +226,9 @@ There are a few minor fix mods which anyone could argue are quite essential. I'l
 
 3. [Adamantium Ore Fix](https://www.nexusmods.com/morrowind/mods/47068)
 
+4. [Dubdilla Location Fix](https://www.nexusmods.com/morrowind/mods/46720)
+     - *Warning: Only install this mod if you are 100% sure you'll never install a mod that touches the cave Dubdilla in the future. If you use this guide to create solid base of mods to use to build on futher with all kind of mods – then please skip this mod.
+
 ## Step 2.8 Some minor graphical mods (Optional)
 Finally, here are a few more minor graphical mods that are a nice addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
 
