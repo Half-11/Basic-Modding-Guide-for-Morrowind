@@ -88,6 +88,7 @@ We also need to select three other patches under the *Mod specific* tab to ensur
 - `Creature voiceover enable`
 
 6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated.
+
      - *Note: You can do this at any time and it doesn't matter if you patched your Morrowind.exe before.*
 
 ## Step 1.6 MGE XE (Essential)
