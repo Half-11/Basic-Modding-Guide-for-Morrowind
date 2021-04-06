@@ -89,7 +89,8 @@ We also need to select three other patches under the *Mod specific* tab to ensur
 
 6. Click *Apply the chosen patches*. Your Morrowind.exe will now be updated.
 
-     - *Note: You can do this at any time and it doesn't matter if you patched your Morrowind.exe before. (The only exception for this is fiddling around with an existing save and the Map expansion (for Tamriel Rebuilt) patch.)*
+     - *Note: You can do this at any time and it doesn't matter if you patched your Morrowind.exe before.
+       (The only exception for this is fiddling around with an existing save and the Map expansion (for Tamriel Rebuilt) patch.)*
 
 Map expansion (for Tamriel Rebuilt)
 
