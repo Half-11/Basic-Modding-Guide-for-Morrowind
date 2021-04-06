@@ -207,7 +207,7 @@ Remiros' Groundcover is one of the best (if not the best) grass and groundcover 
      - *Note: If for some reason you don't like the small mushrooms this mod adds, you can install the contents of the ***04a No Mushrooms*** folder in the same manner.*
 
 ## Step 1.7 Some minor essential mods (Essential)
-Finally, there are a few minor mods that I consider essential. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
+There are a few minor mods that I consider essential. Extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
 
 1. [Better Dialogue Font](https://www.nexusmods.com/morrowind/mods/36873)
 
@@ -217,8 +217,17 @@ Finally, there are a few minor mods that I consider essential. Again, extract th
 
 4. [Fix Those Bastard Rope Fences](https://www.nexusmods.com/morrowind/mods/45741)
 
-## Step 2.8 Some minor mods (Optional)
-Finally, here are a few more minor graphical mods that are a nice  addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
+## Step 1.7 Some minor fix mods (Optional)
+There are a few minor fix mods which anyone could argue are quite essential. I'll leave it up to you to decide whether they are. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
+
+1. [The Publicans](https://www.nexusmods.com/morrowind/mods/45410)
+
+2. [Blighted Blight](https://www.nexusmods.com/morrowind/mods/48631)
+
+3. [Adamantium Ore Fix](https://www.nexusmods.com/morrowind/mods/47068)
+
+## Step 2.8 Some minor graphical mods (Optional)
+Finally, here are a few more minor graphical mods that are a nice addition to the game. Again, extract these zips to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click Yes.
 
 1. [Better Waterfalls](https://www.nexusmods.com/morrowind/mods/45424)
 
