@@ -6,7 +6,7 @@
 ## About this guide
 This guide aims to help (new) players to improve the game of Morrowind by giving step-by-step instructions on how to install the most essential mods. This guide assumes you have got the English version of the game with both expansions, also known as the Game of the Year (GOTY) Edition.
 
-Although the amount of information might be intimidating at first glance, the modlist itself is actual pretty basic. The information is there so you know exactly what to do in each scenario.
+Although the amount of information might be intimidating at first glance, the modlist itself is actual pretty basic compared to other modding guides for Morrowind. The multitude of information is there so you know exactly what to do in each scenario.
 
 This guide is made up of three parts:
 1) The first part deals with the most essential mods (8 total).
