@@ -395,3 +395,4 @@ The MCP option requires some .ini edits:
      [Weather Snow]
      Snow Diameter=1600
      Max Snowflakes=1500
+     
