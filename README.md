@@ -325,26 +325,26 @@ Now there are a few things left to do.
 
 2. The MCP option requires some .ini edits:
 
-     [General]
-     Max FPS=60
-     AllowYesToAll=1 (put this new line just beneath Max FPS=60)
-     SkipProgramFlows=1
-     ThreadPriority=0
-     Interior Cell Buffer=0
-     Exterior Cell Buffer=0
-     Screen Shot Enable=1
+          [General]
+          Max FPS=60
+          AllowYesToAll=1 (put this new line just beneath Max FPS=60)
+          SkipProgramFlows=1
+          ThreadPriority=0
+          Interior Cell Buffer=0
+          Exterior Cell Buffer=0
+          Screen Shot Enable=1
 
-     [Weather Rain]
-     Rain Diameter=1200
-     Max Raindrops=1500
+          [Weather Rain]
+          Rain Diameter=1200
+          Max Raindrops=1500
     
-     [Weather Thunderstorm]
-     Rain Diameter=1200
-     Max Raindrops=3000
+          [Weather Thunderstorm]
+          Rain Diameter=1200
+          Max Raindrops=3000
     
-     [Weather Snow]
-     Snow Diameter=1600
-     Max Snowflakes=1500
+          [Weather Snow]
+          Snow Diameter=1600
+          Max Snowflakes=1500
      
 
 
@@ -400,6 +400,8 @@ Here, you have to make a choice whenever you care about smoother models. If you 
 
 The MCP option requires some .ini edits:
 
+ 
+     fsdf 
      [General]
      Max FPS=60
      AllowYesToAll=1 (put this new line just beneath Max FPS=60)
