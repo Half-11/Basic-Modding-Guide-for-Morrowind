@@ -319,11 +319,36 @@ We can now close MGE XE as we don't need to change anything in the other tabs.
 Now there are a few things left to do.
 
 1. Open **Morrowind Launcher** trough the shortcut or *Morrowind\Morrowind Launcher.exe*. Click on the *Data Files* button. Here we want to activate the mods we want to play with. To activate mods you'll have to double click them so they get a check mark.
-- Don't activate the .esps that start with **Rem_**; these are our grass mods and only need to be active durning Distant Land generation within MGE XE.
-- **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky scattering colours every day. It is optional, but highly recommended to use.
-- You might notice that not all mods installed will appear in this list. This is because not every mod depends on an .esp or .esm file to function. Some simply replace models or textures and other depend on MWSE.
+     - *Warning: Don't activate the .esps that start with **Rem_**; these are our grass mods and only need to be active durning Distant Land generation within MGE XE.*
+     - *Note: **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky scattering colours every day. It is optional, but highly recommended to use.*
+     - *Note: You might notice that not all mods installed will appear in this list. This is because not every mod depends on an .esp or .esm file to function. Some simply replace models or textures and other depend on MWSE.*
 
-2. The last thing set to do is adjusting the Gamma Correction option in-game (Options > Video). This affects the overall brightness of the game. If you like how the game looks, you might want to skip this step, but since every monitor is different it might be worth to tweak this setting to your preference.
+2. The MCP option requires some .ini edits:
+
+     [General]
+     Max FPS=60
+     AllowYesToAll=1 (put this new line just beneath Max FPS=60)
+     SkipProgramFlows=1
+     ThreadPriority=0
+     Interior Cell Buffer=0
+     Exterior Cell Buffer=0
+     Screen Shot Enable=1
+
+     [Weather Rain]
+     Rain Diameter=1200
+     Max Raindrops=1500
+    
+     [Weather Thunderstorm]
+     Rain Diameter=1200
+     Max Raindrops=3000
+    
+     [Weather Snow]
+     Snow Diameter=1600
+     Max Snowflakes=1500
+     
+
+
+3. The last thing set to do is adjusting the Gamma Correction option in-game (Options > Video). This affects the overall brightness of the game. If you like how the game looks, you might want to skip this step, but since every monitor is different it might be worth to tweak this setting to your preference.
 
 3. preformance
 Shaders are pretty cheap if you have a somewhat decent GPU. Draw distance kills your frames, because CPU bottleneck and all that jazz.
