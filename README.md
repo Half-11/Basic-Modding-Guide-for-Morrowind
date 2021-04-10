@@ -323,11 +323,11 @@ Now there are a few things left to do.
      - *Note: **XE Sky Variations.esp** comes with MGE XE. It affects the colours of clear and cloudy skies and makes it so that you will have a different sky scattering colours every day. It is optional, but highly recommended to use.*
      - *Note: You might notice that not all mods installed will appear in this list. This is because not every mod depends on an .esp or .esm file to function. Some simply replace models or textures and other depend on MWSE.*
 
-2. The MCP option requires some .ini edits:
+2. Now we are going to make some edits in the **Morrowind.ini** file. Some are required for the MCP patches, other increase the overall performance of the game. You will find the *Morrowind.ini* file inside your ***/Morrowind*** root directory. Right click the file for the *Edit* option. It will open the file with Notepad. You will want to make the following edits:
 
           [General]
           Max FPS=60
-          AllowYesToAll=1 (put this new line just beneath Max FPS=60)
+          AllowYesToAll=1 (put this new line just beneath Max FPS=60 (without this note))
           SkipProgramFlows=1
           ThreadPriority=0
           Interior Cell Buffer=0
