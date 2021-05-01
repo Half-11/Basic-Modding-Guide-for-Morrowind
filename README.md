@@ -122,7 +122,7 @@ Weapon Sheathing makes unreadied weapons and shields appear on the character's h
 
 2. In the zip file we just downloaded you'll find two folders ***Data Files*** and ***Extras***. Ignore the ***Extras*** folder. Extract the contents of the ***Data Files*** folder to your ***Morrowind/Data Files*** directory. When asked to overwrite files, click *Yes*.
 
-3. [Download Bloodmoon Weapon Sheaths](https://cdn.discordapp.com/attachments/210894929868619778/684485204659798095/Bloodmoon_Weapon_Sheaths.7z) (direct link). This will add weapon sheaths to Bloodmoon until Greatness7 gets of his lazy ass to update the mod.
+3. [Weapon Sheathing Additions](https://www.nexusmods.com/morrowind/mods/49616)
 
 4. Extract the zip to your ***Morrowind/Data Files*** directory.
 
