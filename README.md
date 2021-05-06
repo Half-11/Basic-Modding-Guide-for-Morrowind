@@ -436,3 +436,9 @@ QuadraticValue=4.0
 QuadraticRadiusMult=1.7
 
 For QuadraticValue a lower value is brighter light. Default = 16.0. Sensible values range from 2.0 to 24.0. This is the setting you want to play around with.
+
+
+Adjustable Landscape Texture Scale
+https://www.nexusmods.com/morrowind/mods/49689
+
+
