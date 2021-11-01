@@ -31,7 +31,7 @@ Before we start installing mods we need to create an account on Nexus and instal
      - *Note 1: I like to create a new folder on my desktop for the files to extract to during installation.*
      - *Note 2: Uncheck the **Install Bing Bar** thingy during installation. It's just bloatware.*
 
-* [Microsoft Visual C++ 2010 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=5555) - This is another requirement for third-party software later in this guide.
+* [Microsoft Visual C++ 2010 Redistributable (x86)](https://www.microsoft.com/en-us/download/details.aspx?id=26999) - This is another requirement for third-party software later in this guide.
     - *Note: For Morrowind you'll need the *vc_redist.x86.exe* file, regardless of your computers architecture.*
     
 * [Microsoft Visual C++ Redistributable for Visual Studio 2015-2019](https://aka.ms/vs/16/release/vc_redist.x86.exe) (direct link) - Another library just to make sure we got all components that are required to run our third-party applications.
